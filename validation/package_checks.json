@@ -1,0 +1,15 @@
+{
+  "public_text_files_checked": 71,
+  "machine_specific_paths_found": [],
+  "missing_markdown_targets": [],
+  "template_data_row_counts": {
+    "cost_maintenance.csv": 0,
+    "jar_tests.csv": 0,
+    "membrane_runs.csv": 0,
+    "paired_microbial_results.csv": 0,
+    "sensor_calibration.csv": 0,
+    "system_runs.csv": 0,
+    "uv_runs.csv": 0
+  },
+  "note": "Scope: release text and relative Markdown targets; not a guarantee that all external URLs remain available."
+}

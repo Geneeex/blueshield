@@ -1,0 +1,7 @@
+# Preserve release bytes across platforms so integrity hashes remain stable.
+* -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.blend binary

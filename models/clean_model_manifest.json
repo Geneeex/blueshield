@@ -1,0 +1,536 @@
+[
+  {
+    "stem": "01_Intake_and_Screen",
+    "anchors": [
+      {
+        "number": 1,
+        "label": "Debris screen",
+        "u": 0.460271418094635,
+        "v": 0.45529666543006897,
+        "xyz": [
+          0,
+          -0.23,
+          1.04
+        ]
+      },
+      {
+        "number": 2,
+        "label": "Feed pump",
+        "u": 0.6776539087295532,
+        "v": 0.24785372614860535,
+        "xyz": [
+          1.98,
+          -0.3,
+          0.5
+        ]
+      },
+      {
+        "number": 3,
+        "label": "Intake chamber",
+        "u": 0.5359805226325989,
+        "v": 0.6301915645599365,
+        "xyz": [
+          0,
+          0.78,
+          1.57
+        ]
+      }
+    ],
+    "hidden_text": [
+      "Label | Removable debris screen",
+      "Label | Screened intake to dosing",
+      "Label | 01  Intake screening",
+      "Label | CONCEPT ONLY - NOT VALIDATED"
+    ],
+    "source_sha256": "fd108f47fa9d1df8d4583f0088663916d3259bcb94bd3d81a75e26b32993697b",
+    "geometry_unchanged": true,
+    "render_seconds": 7.61
+  },
+  {
+    "stem": "02_Coagulation_and_Flocculation",
+    "anchors": [
+      {
+        "number": 1,
+        "label": "Alum dosing",
+        "u": 0.3280428647994995,
+        "v": 0.6080596446990967,
+        "xyz": [
+          -2.02,
+          0.1,
+          1.44
+        ]
+      },
+      {
+        "number": 2,
+        "label": "Rapid mixer",
+        "u": 0.4552772343158722,
+        "v": 0.4808860123157501,
+        "xyz": [
+          -0.73,
+          0,
+          1.1
+        ]
+      },
+      {
+        "number": 3,
+        "label": "Flocculator",
+        "u": 0.6071264147758484,
+        "v": 0.40792983770370483,
+        "xyz": [
+          0.73,
+          0,
+          1.1
+        ]
+      }
+    ],
+    "hidden_text": [
+      "Label | Alum dosing",
+      "Label | Rapid mix",
+      "Label | Flocculation",
+      "Label | 02  Coagulation and flocculation",
+      "Label | CONCEPT ONLY - NOT VALIDATED"
+    ],
+    "source_sha256": "f85d4909a68bac77e3c8d85f2f3ce9dd38dbc7a068ca60b90268336b315c5e92",
+    "geometry_unchanged": true,
+    "render_seconds": 4.79
+  },
+  {
+    "stem": "03_Settling_and_Sludge",
+    "anchors": [
+      {
+        "number": 1,
+        "label": "Settling plates",
+        "u": 0.4519970715045929,
+        "v": 0.589689314365387,
+        "xyz": [
+          -0.25,
+          0,
+          1.7
+        ]
+      },
+      {
+        "number": 2,
+        "label": "Clarified outlet",
+        "u": 0.6546759605407715,
+        "v": 0.4939775764942169,
+        "xyz": [
+          1.65,
+          0,
+          1.71
+        ]
+      },
+      {
+        "number": 3,
+        "label": "Sludge draw-off",
+        "u": 0.4402630031108856,
+        "v": 0.23221176862716675,
+        "xyz": [
+          0.6,
+          -1.44,
+          0.48
+        ]
+      }
+    ],
+    "hidden_text": [
+      "Label | Clarified overflow",
+      "Label | Sludge withdrawal",
+      "Label | 03  Settling and sludge removal",
+      "Label | CONCEPT ONLY - NOT VALIDATED"
+    ],
+    "source_sha256": "1883eac12bf731af6092c2ed8ad8b710ba7f5e671e1feb3208de79257b9920aa",
+    "geometry_unchanged": true,
+    "render_seconds": 5.74
+  },
+  {
+    "stem": "04_Supported_GO_Cartridge",
+    "anchors": [
+      {
+        "number": 1,
+        "label": "Feed pump",
+        "u": 0.2887871563434601,
+        "v": 0.47155511379241943,
+        "xyz": [
+          -1.98,
+          0,
+          0.82
+        ]
+      },
+      {
+        "number": 2,
+        "label": "GO cassette",
+        "u": 0.46586453914642334,
+        "v": 0.47142699360847473,
+        "xyz": [
+          0,
+          -0.48,
+          1.65
+        ]
+      },
+      {
+        "number": 3,
+        "label": "Pressure ports",
+        "u": 0.32718950510025024,
+        "v": 0.6163399815559387,
+        "xyz": [
+          -1.48,
+          -0.21,
+          1.94
+        ]
+      },
+      {
+        "number": 4,
+        "label": "Permeate outlet",
+        "u": 0.6493422985076904,
+        "v": 0.3399674892425537,
+        "xyz": [
+          1.4,
+          0,
+          1.07
+        ]
+      },
+      {
+        "number": 5,
+        "label": "Relief path",
+        "u": 0.6191182732582092,
+        "v": 0.7253769636154175,
+        "xyz": [
+          0.95,
+          0.25,
+          3.13
+        ]
+      },
+      {
+        "number": 6,
+        "label": "Service drain",
+        "u": 0.4608864486217499,
+        "v": 0.24284636974334717,
+        "xyz": [
+          0.4,
+          -1.15,
+          0.71
+        ]
+      }
+    ],
+    "hidden_text": [
+      "Label | Supported membrane cassette",
+      "Label | Feed",
+      "Label | Permeate",
+      "Label | Reject / service drain",
+      "Label | 04  Supported GO cartridge",
+      "Label | CONCEPT ONLY - NOT VALIDATED"
+    ],
+    "source_sha256": "b08d7c7ea8eda0aa9e1e28854b6ffe8be10049db8b25c431053b208982cbdb5b",
+    "geometry_unchanged": true,
+    "render_seconds": 4.36
+  },
+  {
+    "stem": "05_Terminal_UVC_Reactor",
+    "anchors": [
+      {
+        "number": 1,
+        "label": "Lamp and sleeve",
+        "u": 0.5065686106681824,
+        "v": 0.6797608137130737,
+        "xyz": [
+          -0.05,
+          0.39,
+          2.31
+        ]
+      },
+      {
+        "number": 2,
+        "label": "Closed housing",
+        "u": 0.48357775807380676,
+        "v": 0.44292938709259033,
+        "xyz": [
+          0,
+          0,
+          1.12
+        ]
+      },
+      {
+        "number": 3,
+        "label": "Process sensors",
+        "u": 0.5306543111801147,
+        "v": 0.4955293834209442,
+        "xyz": [
+          0.43,
+          0,
+          1.56
+        ]
+      },
+      {
+        "number": 4,
+        "label": "Fail-closed valve",
+        "u": 0.6456086039543152,
+        "v": 0.41978538036346436,
+        "xyz": [
+          1.48,
+          0,
+          1.44
+        ]
+      },
+      {
+        "number": 5,
+        "label": "Fault diversion",
+        "u": 0.5985320806503296,
+        "v": 0.3364143967628479,
+        "xyz": [
+          1.67,
+          -0.93,
+          1.44
+        ]
+      }
+    ],
+    "hidden_text": [
+      "Label | Enclosed flow reactor",
+      "Label | Section view of lamp and sleeve",
+      "Label | Fail-closed outlet",
+      "Label | Fault flow to holding",
+      "Label | 05  Terminal UV-C reactor",
+      "Label | CONCEPT ONLY - NOT VALIDATED"
+    ],
+    "source_sha256": "3b30a1b8b1b9af1fea855df22014e68e8f7eeb95388aed2f9753ad928bf55f04",
+    "geometry_unchanged": true,
+    "render_seconds": 3.3
+  },
+  {
+    "stem": "06_Protected_Storage_and_Sensing",
+    "anchors": [
+      {
+        "number": 1,
+        "label": "Protected vent",
+        "u": 0.44132962822914124,
+        "v": 0.7280683517456055,
+        "xyz": [
+          -0.4,
+          0,
+          2.8
+        ]
+      },
+      {
+        "number": 2,
+        "label": "Sealed access",
+        "u": 0.44132962822914124,
+        "v": 0.6914237141609192,
+        "xyz": [
+          -0.4,
+          0,
+          2.58
+        ]
+      },
+      {
+        "number": 3,
+        "label": "Water sensors",
+        "u": 0.4324401915073395,
+        "v": 0.5152475237846375,
+        "xyz": [
+          0.07,
+          -0.83,
+          2.05
+        ]
+      },
+      {
+        "number": 4,
+        "label": "Status controller",
+        "u": 0.6326300501823425,
+        "v": 0.31190812587738037,
+        "xyz": [
+          1.56,
+          -0.25,
+          1.02
+        ]
+      },
+      {
+        "number": 5,
+        "label": "Hygienic outlet",
+        "u": 0.5654259920120239,
+        "v": 0.2659100890159607,
+        "xyz": [
+          1.03,
+          -0.4,
+          0.65
+        ]
+      }
+    ],
+    "hidden_text": [
+      "Label | Sealed access and protected vent",
+      "Label | Physicochemical sensing",
+      "Label | Hygienic dispensing",
+      "Label | 06  Protected storage and sensing",
+      "Label | CONCEPT ONLY - NOT VALIDATED"
+    ],
+    "source_sha256": "a8fdca24875a2bf24c23b6879b75bf6de422d727ada6a7afc00f02a5d1a1b3b2",
+    "geometry_unchanged": true,
+    "render_seconds": 3.96
+  },
+  {
+    "stem": "07_Integrated_Machine",
+    "anchors": [
+      {
+        "number": 1,
+        "label": "Screening",
+        "u": 0.18235433101654053,
+        "v": 0.5818904638290405,
+        "xyz": [
+          -11,
+          0,
+          1
+        ]
+      },
+      {
+        "number": 2,
+        "label": "Mixing",
+        "u": 0.3147067129611969,
+        "v": 0.5534576177597046,
+        "xyz": [
+          -6,
+          0,
+          1.3
+        ]
+      },
+      {
+        "number": 3,
+        "label": "Settling",
+        "u": 0.4232356548309326,
+        "v": 0.5210663080215454,
+        "xyz": [
+          -1.9,
+          0,
+          1.3
+        ]
+      },
+      {
+        "number": 4,
+        "label": "GO cartridge",
+        "u": 0.5344116687774658,
+        "v": 0.502643346786499,
+        "xyz": [
+          2.3,
+          0,
+          1.7
+        ]
+      },
+      {
+        "number": 5,
+        "label": "Terminal UV-C",
+        "u": 0.6508817076683044,
+        "v": 0.44648221135139465,
+        "xyz": [
+          6.7,
+          0,
+          1.12
+        ]
+      },
+      {
+        "number": 6,
+        "label": "Protected storage",
+        "u": 0.7567636370658875,
+        "v": 0.43628057837486267,
+        "xyz": [
+          10.7,
+          0,
+          1.7
+        ]
+      },
+      {
+        "number": 7,
+        "label": "Residuals holding",
+        "u": 0.8546216487884521,
+        "v": 0.36622902750968933,
+        "xyz": [
+          14.6,
+          -0.5,
+          0.9
+        ]
+      }
+    ],
+    "hidden_text": [
+      "Label | BLUESHIELD FILTER  |  Integrated machine",
+      "Label | 01 Screen  >  02 Mix  >  03 Settle  >  04 GO cartridge ",
+      "Label | CONCEPT VISUALIZATION | Not a fabrication drawing, CFD "
+    ],
+    "source_sha256": "51ec945bbc4ac00204112ae8d6890e2d45b47a7eec735bd1251d4559f8174ee3",
+    "geometry_unchanged": true,
+    "render_seconds": 3.6
+  },
+  {
+    "stem": "08_Industrial_Installation",
+    "anchors": [
+      {
+        "number": 1,
+        "label": "Source buffer",
+        "u": 0.224546879529953,
+        "v": 0.7075631022453308,
+        "xyz": [
+          -13.2,
+          5.7,
+          1.4
+        ]
+      },
+      {
+        "number": 2,
+        "label": "Process skid",
+        "u": 0.264786034822464,
+        "v": 0.4620203375816345,
+        "xyz": [
+          -7,
+          -2.07,
+          0.15
+        ]
+      },
+      {
+        "number": 3,
+        "label": "Solar provision",
+        "u": 0.3807879686355591,
+        "v": 0.6730884909629822,
+        "xyz": [
+          -6.4,
+          6.35,
+          2.18
+        ]
+      },
+      {
+        "number": 4,
+        "label": "Operations",
+        "u": 0.729108989238739,
+        "v": 0.5012986063957214,
+        "xyz": [
+          9.6,
+          6.3,
+          2
+        ]
+      },
+      {
+        "number": 5,
+        "label": "Residuals holding",
+        "u": 0.7550344467163086,
+        "v": 0.2906273901462555,
+        "xyz": [
+          14.6,
+          -0.5,
+          0.9
+        ]
+      },
+      {
+        "number": 6,
+        "label": "Service access",
+        "u": 0.8068016767501831,
+        "v": 0.3291885554790497,
+        "xyz": [
+          14.9,
+          3.2,
+          0.03
+        ]
+      }
+    ],
+    "hidden_text": [
+      "Label | BLUESHIELD FILTER  |  Industrial installation",
+      "Label | Concept site layout with process skid, source buffer, r",
+      "Label | CONCEPT VISUALIZATION | Not a fabrication drawing, CFD "
+    ],
+    "source_sha256": "e911d1c80a8a9f7422f2d0191b5c1ac15b1b68638977513b58f1fd5e30f7479f",
+    "geometry_unchanged": true,
+    "render_seconds": 7.58
+  }
+]

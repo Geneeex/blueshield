@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0",
+  "status": "illustrative_assumptions_not_experimental_measurements",
+  "source": "manuscript/latex/BLUESHIELD_BINAVO.tex, Preliminary Engineering Assessment, equations cycle through lrv; legacy manuscript calculation record (not packaged)",
+  "cycle": {
+    "batch_volume": {
+      "value": 20,
+      "unit": "L",
+      "status": "illustrative_assumption",
+      "source": "eq:cycle and design-basis table"
+    },
+    "recoverable_fraction": {
+      "value": 0.9,
+      "unit": "fraction",
+      "status": "illustrative_assumption",
+      "source": "eq:cycle; lumped volume allowance, not membrane recovery"
+    },
+    "discharge_flow": {
+      "value": 10,
+      "unit": "L/h",
+      "status": "illustrative_assumption",
+      "source": "eq:cycle"
+    },
+    "rapid_mixing_time": {
+      "value": 1,
+      "unit": "min",
+      "status": "illustrative_assumption",
+      "source": "design-basis table"
+    },
+    "flocculation_time": {
+      "value": 20,
+      "unit": "min",
+      "status": "illustrative_assumption",
+      "source": "design-basis table"
+    },
+    "settling_time": {
+      "value": 60,
+      "unit": "min",
+      "status": "illustrative_assumption",
+      "source": "design-basis table"
+    }
+  },
+  "alum": {
+    "product_doses": {
+      "value": [
+        10,
+        30,
+        50
+      ],
+      "unit": "mg/L commercial product",
+      "status": "illustrative_assumption",
+      "source": "eq:alum; mass accounting only, not jar-test dose recommendations"
+    },
+    "stock_concentration": {
+      "value": 10000,
+      "unit": "mg/L same commercial product",
+      "status": "illustrative_assumption",
+      "source": "eq:alum; stock addition omitted from approximate cycle balance"
+    }
+  },
+  "mixing": {
+    "dynamic_viscosity": {
+      "value": 0.001,
+      "unit": "Pa*s",
+      "status": "illustrative_assumption",
+      "source": "eq:mixing"
+    },
+    "water_volume": {
+      "value": 0.02,
+      "unit": "m^3",
+      "status": "illustrative_assumption",
+      "source": "eq:mixing"
+    },
+    "velocity_gradients": {
+      "value": [
+        700,
+        50
+      ],
+      "unit": "1/s",
+      "status": "illustrative_assumption",
+      "source": "eq:mixing; water-dissipated power, not motor demand"
+    }
+  },
+  "membrane": {
+    "operating_fluxes": {
+      "value": [
+        10,
+        25,
+        50
+      ],
+      "unit": "L/(m^2*h)",
+      "status": "illustrative_assumption",
+      "source": "eq:membrane"
+    },
+    "baseline_flux": {
+      "value": 25,
+      "unit": "L/(m^2*h)",
+      "status": "illustrative_assumption",
+      "source": "membrane fouling illustration"
+    },
+    "remaining_flux_fraction": {
+      "value": 0.5,
+      "unit": "fraction",
+      "status": "illustrative_assumption",
+      "source": "membrane fouling illustration; 50 percent decline"
+    },
+    "hypothetical_apparent_permeance": {
+      "value": 25,
+      "unit": "L/(m^2*h*bar)",
+      "status": "illustrative_assumption",
+      "source": "hydrostatic linear extrapolation only; no membrane prediction"
+    }
+  },
+  "head": {
+    "water_density": {
+      "value": 1000,
+      "unit": "kg/m^3",
+      "status": "illustrative_assumption",
+      "source": "eq:head; rounded density"
+    },
+    "gravity": {
+      "value": 9.81,
+      "unit": "m/s^2",
+      "status": "illustrative_assumption",
+      "source": "eq:head"
+    },
+    "hydrostatic_head": {
+      "value": 0.5,
+      "unit": "m",
+      "status": "illustrative_assumption",
+      "source": "eq:head"
+    },
+    "comparison_pressure": {
+      "value": 1,
+      "unit": "bar",
+      "status": "illustrative_assumption",
+      "source": "eq:head inverse comparison"
+    }
+  },
+  "uvpath": {
+    "status": "function_only_no_optical_trajectory_measurements",
+    "source": "eq:uvpath",
+    "trajectory_inputs": null
+  },
+  "uvvolume": {
+    "study_fluence": {
+      "value": 40,
+      "unit": "mJ/cm^2",
+      "status": "illustrative_assumption",
+      "source": "eq:uvvolume; sensitivity target, not universal safety threshold"
+    },
+    "in_water_fluence_rates": {
+      "value": [
+        0.25,
+        0.5,
+        1.0
+      ],
+      "unit": "mW/cm^2",
+      "status": "illustrative_assumption",
+      "source": "ideal UV-sizing table; independent of electrical lamp power"
+    }
+  },
+  "energy": {
+    "overall_efficiency": {
+      "value": 0.3,
+      "unit": "fraction",
+      "status": "illustrative_assumption",
+      "source": "eq:energy"
+    },
+    "total_pressure_differentials": {
+      "value": [
+        0.5,
+        2.0
+      ],
+      "unit": "bar",
+      "status": "illustrative_assumption",
+      "source": "eq:energy; pump differential is not membrane transmembrane pressure"
+    },
+    "pump_flow": {
+      "value": 10,
+      "unit": "L/h",
+      "status": "illustrative_assumption",
+      "source": "eq:energy; volume pumped, not total treatment energy per product volume"
+    }
+  },
+  "lrv": {
+    "status": "function_only_no_blueshield_measurements",
+    "source": "eq:lrv",
+    "paired_organism_inputs": null
+  },
+  "sensitivity": {
+    "discharge_flow_range": {
+      "value": [
+        2,
+        25,
+        200
+      ],
+      "unit": "L/h min,max,points",
+      "status": "illustrative_assumption",
+      "source": "legacy manuscript design-sensitivity calculation"
+    },
+    "flux_range": {
+      "value": [
+        5,
+        60,
+        220
+      ],
+      "unit": "L/(m^2*h) min,max,points",
+      "status": "illustrative_assumption",
+      "source": "legacy manuscript design-sensitivity calculation"
+    }
+  }
+}

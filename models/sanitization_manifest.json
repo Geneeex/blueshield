@@ -1,0 +1,773 @@
+{
+  "blender_version": "4.3.2",
+  "intentional_changes": [
+    "All FONT curve slots use Blender built-in Bfont.",
+    "Removed all other font datablocks, including packed Segoe UI binaries.",
+    "Render output paths are relative to the saved scene.",
+    "Font substitution changes glyph outlines and derived text bounds; text body and placement are retained.",
+    "Saved file-browser directory buffers are cleared and point to the scene-relative directory."
+  ],
+  "signature_scope": "Mesh vertices/topology/UVs; non-font curves; text content and non-font properties; object transforms/visibility/modifiers; material node inputs and links; camera, light and world properties; active camera and render configuration.",
+  "scenes": [
+    {
+      "scene": "01_Intake_and_Screen_clean.blend",
+      "source_clean_sha256": "60f8173a0a87dcbbc075abef3fa55fcc23cde809c718743ebbc3e7558a91d112",
+      "sanitized_sha256": "5678b4a87af4daab041d0ad0030f222bb17bdaf663b72e28c7d316c60d69b604",
+      "sanitized_bytes": 1005136,
+      "protected_scene_signature_sha256": "830d7251ec4bcefa1e823cafdf2ffce8e22c5a948c20c6041fdb57b51c1429a8",
+      "native_reopen_signature_matches": true,
+      "source_unchanged": true,
+      "removed_fonts": [
+        {
+          "name": "Segoe UI Bold",
+          "packed": true,
+          "source_filename": "segoeuib.ttf"
+        },
+        {
+          "name": "Segoe UI Regular",
+          "packed": true,
+          "source_filename": "segoeui.ttf"
+        }
+      ],
+      "font_substitutions": [
+        {
+          "curve": "01  Intake screening",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "01  SCREENING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "CONCEPT ONLY - NOT VALIDATED",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Removable debris screen",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Screened intake to dosing",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        }
+      ],
+      "render_output_path": "//..\\generated\\renders\\01_Intake_and_Screen_clean.png",
+      "resource_audit": {
+        "fonts": [
+          {
+            "name": "Bfont Regular",
+            "filepath": "<builtin>",
+            "packed": false
+          }
+        ],
+        "resource_paths": [],
+        "objects": 48,
+        "meshes": 38,
+        "materials": 9,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      },
+      "original_counts": {
+        "objects": 48,
+        "meshes": 38,
+        "materials": 9,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      }
+    },
+    {
+      "scene": "02_Coagulation_and_Flocculation_clean.blend",
+      "source_clean_sha256": "12d7d51f796ec7c717da0b0a46eb42d9837f67058b815b18e87cd86f3da8157e",
+      "sanitized_sha256": "5388d70b7a6c42173bfdb93e539278bdda66d074f803fc81bdc00619ed4e1595",
+      "sanitized_bytes": 1083684,
+      "protected_scene_signature_sha256": "3c41728768c78d19a2e892effec8979a8a30f703f1e78a918cb9fda7e7e0de61",
+      "native_reopen_signature_matches": true,
+      "source_unchanged": true,
+      "removed_fonts": [
+        {
+          "name": "Segoe UI Bold",
+          "packed": true,
+          "source_filename": "segoeuib.ttf"
+        },
+        {
+          "name": "Segoe UI Regular",
+          "packed": true,
+          "source_filename": "segoeui.ttf"
+        }
+      ],
+      "font_substitutions": [
+        {
+          "curve": "02  Coagulation and flocculation",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "02  MIXING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Alum dosing",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "CONCEPT ONLY - NOT VALIDATED",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Flocculation",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Rapid mix",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        }
+      ],
+      "render_output_path": "//..\\generated\\renders\\02_Coagulation_and_Flocculation_clean.png",
+      "resource_audit": {
+        "fonts": [
+          {
+            "name": "Bfont Regular",
+            "filepath": "<builtin>",
+            "packed": false
+          }
+        ],
+        "resource_paths": [],
+        "objects": 58,
+        "meshes": 47,
+        "materials": 10,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      },
+      "original_counts": {
+        "objects": 58,
+        "meshes": 47,
+        "materials": 10,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      }
+    },
+    {
+      "scene": "03_Settling_and_Sludge_clean.blend",
+      "source_clean_sha256": "cfe6f909e5f93f70ed372656c7c82bcd8de56d4e56246c399a7ceeff64beaa03",
+      "sanitized_sha256": "c81dee8363cc7ebdf9cff03bbe0a301bbc8cecadfaa9ffaee831df0754d73874",
+      "sanitized_bytes": 823728,
+      "protected_scene_signature_sha256": "fa2c24c39ff72aaa5b2861dc23a6943847090dc6b7fd73dcfb24b9693210f5f4",
+      "native_reopen_signature_matches": true,
+      "source_unchanged": true,
+      "removed_fonts": [
+        {
+          "name": "Segoe UI Bold",
+          "packed": true,
+          "source_filename": "segoeuib.ttf"
+        },
+        {
+          "name": "Segoe UI Regular",
+          "packed": true,
+          "source_filename": "segoeui.ttf"
+        }
+      ],
+      "font_substitutions": [
+        {
+          "curve": "03  SETTLING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "03  Settling and sludge removal",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Clarified overflow.001",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "CONCEPT ONLY - NOT VALIDATED",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Sludge withdrawal.001",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        }
+      ],
+      "render_output_path": "//..\\generated\\renders\\03_Settling_and_Sludge_clean.png",
+      "resource_audit": {
+        "fonts": [
+          {
+            "name": "Bfont Regular",
+            "filepath": "<builtin>",
+            "packed": false
+          }
+        ],
+        "resource_paths": [],
+        "objects": 35,
+        "meshes": 24,
+        "materials": 10,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      },
+      "original_counts": {
+        "objects": 35,
+        "meshes": 24,
+        "materials": 10,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      }
+    },
+    {
+      "scene": "04_Supported_GO_Cartridge_clean.blend",
+      "source_clean_sha256": "5e853623f1f43c9f515818560aca5177d66a9da9ddeed4a38d46a8e2c2a7cf00",
+      "sanitized_sha256": "d287e3b69433eb148d8f6215d4f70151e72e372796dbcd4fe190aec30db262b4",
+      "sanitized_bytes": 1525548,
+      "protected_scene_signature_sha256": "dc43bdbff122d9c5e7b20eafdb3fbfd97e1291eda334a7619b90a3e9d906f4d5",
+      "native_reopen_signature_matches": true,
+      "source_unchanged": true,
+      "removed_fonts": [
+        {
+          "name": "Segoe UI Bold",
+          "packed": true,
+          "source_filename": "segoeuib.ttf"
+        },
+        {
+          "name": "Segoe UI Regular",
+          "packed": true,
+          "source_filename": "segoeui.ttf"
+        }
+      ],
+      "font_substitutions": [
+        {
+          "curve": "04  GO CARTRIDGE",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "04  Supported GO cartridge",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "CONCEPT ONLY - NOT VALIDATED",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Feed",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Permeate",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Reject / service drain",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Supported membrane cassette",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        }
+      ],
+      "render_output_path": "//..\\generated\\renders\\04_Supported_GO_Cartridge_clean.png",
+      "resource_audit": {
+        "fonts": [
+          {
+            "name": "Bfont Regular",
+            "filepath": "<builtin>",
+            "packed": false
+          }
+        ],
+        "resource_paths": [],
+        "objects": 109,
+        "meshes": 94,
+        "materials": 10,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      },
+      "original_counts": {
+        "objects": 109,
+        "meshes": 94,
+        "materials": 10,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      }
+    },
+    {
+      "scene": "05_Terminal_UVC_Reactor_clean.blend",
+      "source_clean_sha256": "1e7e9f15049f265f1189176acacd997fd00412d924b87d923c3b8a846e930d68",
+      "sanitized_sha256": "457facc063ff418b6b1bcaf49535654c1496e245f5037d1aa0426004a5bea3af",
+      "sanitized_bytes": 995836,
+      "protected_scene_signature_sha256": "1d5cffa4c2436297093ec15c2feb03bd0a1c67a8506fb86ace3e47961faeabd3",
+      "native_reopen_signature_matches": true,
+      "source_unchanged": true,
+      "removed_fonts": [
+        {
+          "name": "Segoe UI Bold",
+          "packed": true,
+          "source_filename": "segoeuib.ttf"
+        },
+        {
+          "name": "Segoe UI Regular",
+          "packed": true,
+          "source_filename": "segoeui.ttf"
+        }
+      ],
+      "font_substitutions": [
+        {
+          "curve": "05  TERMINAL UV-C",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "05  Terminal UV-C reactor",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "CONCEPT ONLY - NOT VALIDATED",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Enclosed flow reactor",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Fail-closed outlet",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Fault flow to holding",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Section view of lamp and sleeve",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        }
+      ],
+      "render_output_path": "//..\\generated\\renders\\05_Terminal_UVC_Reactor_clean.png",
+      "resource_audit": {
+        "fonts": [
+          {
+            "name": "Bfont Regular",
+            "filepath": "<builtin>",
+            "packed": false
+          }
+        ],
+        "resource_paths": [],
+        "objects": 50,
+        "meshes": 36,
+        "materials": 11,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      },
+      "original_counts": {
+        "objects": 50,
+        "meshes": 36,
+        "materials": 11,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      }
+    },
+    {
+      "scene": "06_Protected_Storage_and_Sensing_clean.blend",
+      "source_clean_sha256": "ccd5fad6f540a583322fc792e0d0030745258f7277771602e9a8bd85e5a0e729",
+      "sanitized_sha256": "1510060d7ff078ad4b90b65ff65d02321aee3023ae462c598b2725f6e47fbf90",
+      "sanitized_bytes": 807024,
+      "protected_scene_signature_sha256": "0965bae8884855b664b6d5042ed782fd1646dd80c6ae79e16cda3f1ea9d3be0d",
+      "native_reopen_signature_matches": true,
+      "source_unchanged": true,
+      "removed_fonts": [
+        {
+          "name": "Segoe UI Bold",
+          "packed": true,
+          "source_filename": "segoeuib.ttf"
+        },
+        {
+          "name": "Segoe UI Regular",
+          "packed": true,
+          "source_filename": "segoeui.ttf"
+        }
+      ],
+      "font_substitutions": [
+        {
+          "curve": "06  PROTECTED STORAGE",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "06  Protected storage and sensing",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "CONCEPT ONLY - NOT VALIDATED",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Hygienic dispensing",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Physicochemical sensing",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Sealed access and protected vent",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "STATUS",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        }
+      ],
+      "render_output_path": "//..\\generated\\renders\\06_Protected_Storage_and_Sensing_clean.png",
+      "resource_audit": {
+        "fonts": [
+          {
+            "name": "Bfont Regular",
+            "filepath": "<builtin>",
+            "packed": false
+          }
+        ],
+        "resource_paths": [],
+        "objects": 40,
+        "meshes": 26,
+        "materials": 6,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      },
+      "original_counts": {
+        "objects": 40,
+        "meshes": 26,
+        "materials": 6,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      }
+    },
+    {
+      "scene": "07_Integrated_Machine_clean.blend",
+      "source_clean_sha256": "70a64c3a1fa159eb3e987626f21589a070ac70367269f899946d8faa879cb474",
+      "sanitized_sha256": "00401a6e8b0edc550ce3ab7eba06eae1c5ad96884719eca76ce0fc5881b0b5dc",
+      "sanitized_bytes": 3306616,
+      "protected_scene_signature_sha256": "6819dfde915b8f7275e9e91447496546b5f5710fb1a391b8b24522c5accc422a",
+      "native_reopen_signature_matches": true,
+      "source_unchanged": true,
+      "removed_fonts": [
+        {
+          "name": "Segoe UI Bold",
+          "packed": true,
+          "source_filename": "segoeuib.ttf"
+        },
+        {
+          "name": "Segoe UI Regular",
+          "packed": true,
+          "source_filename": "segoeui.ttf"
+        }
+      ],
+      "font_substitutions": [
+        {
+          "curve": "01  SCREENING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "01 Screen  >  02 Mix  >  03 Settle  >  04 GO cartridge  >  05 T",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "02  MIXING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "03  SETTLING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "04  GO CARTRIDGE",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "05  TERMINAL UV-C",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "06  PROTECTED STORAGE",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "BLUESHIELD FILTER  |  Integrated machine",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "CONCEPT VISUALIZATION | Not a fabrication drawing, CFD model or",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "HOLDING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "STATUS",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        }
+      ],
+      "render_output_path": "//..\\generated\\renders\\07_Integrated_Machine_clean.png",
+      "resource_audit": {
+        "fonts": [
+          {
+            "name": "Bfont Regular",
+            "filepath": "<builtin>",
+            "packed": false
+          }
+        ],
+        "resource_paths": [],
+        "objects": 326,
+        "meshes": 289,
+        "materials": 14,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      },
+      "original_counts": {
+        "objects": 326,
+        "meshes": 289,
+        "materials": 14,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      }
+    },
+    {
+      "scene": "08_Industrial_Installation_clean.blend",
+      "source_clean_sha256": "e66940fb2be25a8b7173631ea81886f2860e57c126231244facbbb769539a635",
+      "sanitized_sha256": "4aaecb8c8641a70bb44389af67ced74de379b318c9b9a06835f66c3807f58e2d",
+      "sanitized_bytes": 3739548,
+      "protected_scene_signature_sha256": "a70e6730a58cf5135606ca394a2956b3c67100410c118a35d90925e4fca8a33c",
+      "native_reopen_signature_matches": true,
+      "source_unchanged": true,
+      "removed_fonts": [
+        {
+          "name": "Segoe UI Bold",
+          "packed": true,
+          "source_filename": "segoeuib.ttf"
+        },
+        {
+          "name": "Segoe UI Regular",
+          "packed": true,
+          "source_filename": "segoeui.ttf"
+        }
+      ],
+      "font_substitutions": [
+        {
+          "curve": "01  SCREENING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "02  MIXING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "03  SETTLING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "04  GO CARTRIDGE",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "05  TERMINAL UV-C",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "06  PROTECTED STORAGE",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "BLUESHIELD FILTER  |  Industrial installation",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "Concept site layout with process skid, source buffer, residuals",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "CONCEPT VISUALIZATION | Not a fabrication drawing, CFD model or",
+          "slot": "font",
+          "old_font": "Segoe UI Regular",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "HOLDING",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "OPERATIONS",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        },
+        {
+          "curve": "STATUS",
+          "slot": "font",
+          "old_font": "Segoe UI Bold",
+          "new_font": "Bfont Regular"
+        }
+      ],
+      "render_output_path": "//..\\generated\\renders\\08_Industrial_Installation_clean.png",
+      "resource_audit": {
+        "fonts": [
+          {
+            "name": "Bfont Regular",
+            "filepath": "<builtin>",
+            "packed": false
+          }
+        ],
+        "resource_paths": [],
+        "objects": 374,
+        "meshes": 335,
+        "materials": 16,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      },
+      "original_counts": {
+        "objects": 374,
+        "meshes": 335,
+        "materials": 16,
+        "cameras": 1,
+        "lights": 3,
+        "linked_libraries": 0,
+        "text_blocks": 0
+      }
+    }
+  ]
+}

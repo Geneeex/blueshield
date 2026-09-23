@@ -1,0 +1,67 @@
+{
+  "renderer": "pypdfium2 5.13.0",
+  "render_dpi": 108,
+  "archived_pages": 14,
+  "rebuilt_pages": 14,
+  "archived_pdf_sha256": "6459c2360076078c826d7d0dd3e447be748da11e2c62848205a75c22f19cb54d",
+  "pages": [
+    {
+      "page": 1,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 2,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 3,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 4,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 5,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 6,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 7,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 8,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 9,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 10,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 11,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 12,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 13,
+      "render_pixels_equal": true
+    },
+    {
+      "page": 14,
+      "render_pixels_equal": true
+    }
+  ],
+  "all_pages_equal": true,
+  "note": "Unchanged source rebuilt with matching official template dependencies; this is document reproduction, not scientific validation."
+}

@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "caution": "Sequential batch; excludes filling, cleaning and operator delays; recovery is a lumped allowance.",
+      "formula": "Vp=fr*Vb; tcycle=trapid+tfloc+tsettle+Vp/Qp; Qaverage=Vp/tcycle",
+      "id": "cycle",
+      "number": 1,
+      "status": "illustrative_scenario"
+    },
+    {
+      "caution": "Product mass and elemental aluminium are different bases; effective dose needs jar testing.",
+      "formula": "ma_g=D_mg_L*Vb_L/1000; Vs_L=D_mg_L*Vb_L/Cs_mg_L",
+      "id": "alum",
+      "number": 2,
+      "status": "illustrative_scenario"
+    },
+    {
+      "caution": "Fluid power is not motor demand, impeller speed or local floc shear.",
+      "formula": "G=sqrt(Pwater/(mu*V)); Pwater=mu*V*G^2",
+      "id": "mixing",
+      "number": 3,
+      "status": "illustrative_scenario"
+    },
+    {
+      "caution": "No concentration measurements; flux/permeance assumptions do not predict rejection or durability.",
+      "formula": "J=Qp/Am; Lp_app=J/TMP; R=1-Cp/Cf",
+      "id": "membrane",
+      "number": 4,
+      "status": "illustrative_sizing_with_rejection_function_only"
+    },
+    {
+      "caution": "Linear permeance extrapolation neglects losses; not a validated low-pressure flux prediction.",
+      "formula": "pressure_Pa=rho*g*h; pressure_bar=pressure_Pa/100000",
+      "id": "head",
+      "number": 5,
+      "status": "illustrative_scenario"
+    },
+    {
+      "caution": "Sampled trajectories may be integrated by trapezoids; none are supplied as experimental data.",
+      "formula": "Hj=integral(Ef(xj(t),t),dt)",
+      "id": "uvpath",
+      "number": 6,
+      "status": "function_only_no_trajectory_data"
+    },
+    {
+      "caution": "Uniform field and plug flow; assumed fluence is not a universal safety threshold or validated dose.",
+      "formula": "Hnom=Ebar*V/(Q_L_h/3600); Videal_L=(Q_L_h/3600)*Hstudy/Ebar",
+      "id": "uvvolume",
+      "number": 7,
+      "status": "illustrative_scenario"
+    },
+    {
+      "caution": "Energy per m^3 pumped, not full treatment energy per delivered volume.",
+      "formula": "Pel=total_pressure_Pa*Qpump_m3_s/efficiency; epump=total_pressure_Pa/(3.6e6*efficiency)",
+      "id": "energy",
+      "number": 8,
+      "status": "illustrative_scenario"
+    },
+    {
+      "caution": "Matching organism/assay basis is required; a nondetect is not zero; no BLUESHIELD removal is calculated.",
+      "formula": "LRV=log10(Nin/Nout); removal_fraction=1-10^(-LRV)",
+      "id": "lrv",
+      "number": 9,
+      "status": "function_only_no_treatment_measurements"
+    }
+  ],
+  "note": "Equations are implemented; only supplied illustrative scenarios are calculated."
+}

@@ -1,0 +1,43 @@
+{
+  "pages": 14,
+  "figures": 28,
+  "tables": 3,
+  "equations": 9,
+  "references": 23,
+  "unique_graphics": 31,
+  "conclusion_words": 602,
+  "introduction_page": 1,
+  "conclusion_page": 13,
+  "reference_page": 13,
+  "section_transitions": "Introduction, Conclusion and References have no forced page/column break.",
+  "figure_placement": "Nonfloating blocks in source-verified section/subsection ownership.",
+  "fixed_figure_blocks": {
+    "inlinefigure": 26,
+    "plain_minipage": 2
+  },
+  "all_captions_found_on_labelled_page": true,
+  "citation_order": "First appearance",
+  "undefined_citations_references": false,
+  "overfull_boxes": false,
+  "outside_page_characters": 0,
+  "typography": {
+    "body_size_pt": 9.8,
+    "body_leading_pt": 11.4,
+    "reference_size_pt": 10.0,
+    "reference_leading_pt": 13.42,
+    "whole_model_graphics_options": {
+      "07_Integrated_Machine": "width=0.60\\textwidth,trim=0bp 5.5bp 0bp 5bp,clip",
+      "08_Industrial_Installation": "width=0.60\\textwidth,trim=0bp 5.5bp 0bp 2bp,clip"
+    }
+  },
+  "arithmetic_audit": "Previously recomputed survey totals and engineering scenarios; no arithmetic errors found.",
+  "remaining_evidence_limits": "Respondent-level and original survey/consent records are unavailable. The impact-item discrepancy is excluded; no treatment validation is asserted.",
+  "main_tex_sha256": "9a871ebf5a14c7635a10901ba6c9c8e20a6ba281fd687e04938cfb872ac3bf9e",
+  "pdf_sha256": "6459c2360076078c826d7d0dd3e447be748da11e2c62848205a75c22f19cb54d",
+  "preserved_source_images": 16,
+  "preserved_existing_assets": 21,
+  "editable_svg_models": 8,
+  "display_frame_records": 21,
+  "image_frame_crops_sha256": "1d1b760919e1e64af2bad61ee80e1e4046304ef24e98c8f00def6df33a648075",
+  "scope": "Historical layout report from the supplied final manuscript release. Repository reproduction checks are recorded separately."
+}

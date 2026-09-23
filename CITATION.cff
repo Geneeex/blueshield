@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite this research companion and the accompanying manuscript when using these materials."
+type: dataset
+title: "BLUESHIELD FILTER: Stakeholder Perceptions and a Preliminary Design-and-Engineering Assessment for Floodwater Treatment — Research Companion"
+authors:
+  - family-names: Sultan
+    given-names: Sabik Bin
+    affiliation: Bangladesh Air Force Shaheen College Kurmitola
+  - family-names: Sultan
+    given-names: Shafi Bin
+    affiliation: St. Joseph Higher Secondary School
+version: 1.0.0
+date-released: 2026-09-23
+abstract: >-
+  Supporting materials for an exploratory stakeholder survey and preliminary
+  floodwater-treatment concept: reported aggregate summaries, conditional
+  engineering calculations, software checks, manuscript assets and conceptual
+  Blender scenes. No respondent-level records or treatment experiments are included.
+keywords:
+  - floodwater treatment
+  - stakeholder perceptions
+  - preliminary engineering
+  - graphene oxide membranes
+  - ultraviolet disinfection
+url: "https://github.com/SABIKGIT/blueshield"
+repository-code: "https://github.com/SABIKGIT/blueshield"

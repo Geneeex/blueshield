@@ -1,0 +1,10 @@
+{
+  "passes": 3,
+  "template_dependencies_verified": 44,
+  "layout_or_reference_warnings": [],
+  "font_warnings": [
+    "LaTeX Font Warning: Font shape `TS1/times/m/n' undefined",
+    "LaTeX Font Warning: Some font shapes were not available, defaults substituted."
+  ],
+  "note": "PDF byte hashes may change with compiler versions, timestamps and document IDs."
+}

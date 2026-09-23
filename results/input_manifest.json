@@ -1,0 +1,12 @@
+{
+  "algorithm": "SHA-256",
+  "canonicalization": "UTF-8 text with line endings normalized to LF; not a raw byte-file checksum",
+  "files": {
+    "demographics.csv": "b395a6e923665bb4376533b84108d72b7dd1a22d3fb7a6faa9812dad1f82ea95",
+    "engineering_inputs.json": "86bf5c2800421680ebb57daf67214fe4bb198a7c9aa342198e1af5af28380f05",
+    "impact_discrepancy.json": "37680ed6d2632f3cec525c2f2b675f25ebed765aa1f6b0de0e3e5151bcfda78f",
+    "interview_summaries.csv": "8c2833933ab8c07b144a5737b9b469b3045b55a003e4d58c152eba7fddcc8f8f",
+    "metadata.json": "b6a205cb3f5b31a8090215bc2a2e49c110f32ef1e74d109ffc3fe161e53d0742",
+    "perceptions.csv": "18dfff2265d19f16bb2093342443590dcfe5a4aabf531c5d11fee1b63ca53cd9"
+  }
+}

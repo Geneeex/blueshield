@@ -1,0 +1,112 @@
+{
+  "alum": [
+    {
+      "assumed_product_dose_mg_L": 10,
+      "product_mass_g": 0.2,
+      "stock_volume_L": 0.02,
+      "stock_volume_mL": 20.0
+    },
+    {
+      "assumed_product_dose_mg_L": 30,
+      "product_mass_g": 0.6,
+      "stock_volume_L": 0.06,
+      "stock_volume_mL": 60.0
+    },
+    {
+      "assumed_product_dose_mg_L": 50,
+      "product_mass_g": 1.0,
+      "stock_volume_L": 0.1,
+      "stock_volume_mL": 100.0
+    }
+  ],
+  "cycle": {
+    "cycle_average_L_h": 5.71428571429,
+    "cycle_h": 3.15,
+    "discharge_h": 1.8,
+    "discharge_min": 108.0,
+    "pretreatment_min": 81.0,
+    "product_L": 18.0
+  },
+  "energy": [
+    {
+      "assumed_total_pressure_bar": 0.5,
+      "power_W": 0.462962962963,
+      "specific_energy_kWh_m3_pumped": 0.0462962962963
+    },
+    {
+      "assumed_total_pressure_bar": 2.0,
+      "power_W": 1.85185185185,
+      "specific_energy_kWh_m3_pumped": 0.185185185185
+    }
+  ],
+  "equation_group_count": 9,
+  "head": {
+    "comparison_water_head_m": 10.1936799185,
+    "hypothetical_linear_flux_LMH": 1.22625,
+    "hypothetical_required_area_m2": 8.15494393476,
+    "pressure_Pa": 4905.0,
+    "pressure_bar": 0.04905
+  },
+  "lrv": {
+    "calculated": false,
+    "reason": "No BLUESHIELD microbial inlet/outlet measurements supplied; formulas only."
+  },
+  "membrane": {
+    "area_scenarios": [
+      {
+        "active_area_m2": 1.0,
+        "assumed_flux_LMH": 10
+      },
+      {
+        "active_area_m2": 0.4,
+        "assumed_flux_LMH": 25
+      },
+      {
+        "active_area_m2": 0.2,
+        "assumed_flux_LMH": 50
+      }
+    ],
+    "fouling_scenario": {
+      "baseline_area_m2": 0.4,
+      "flow_after_decline_L_h": 5.0,
+      "remaining_flux_LMH": 12.5
+    },
+    "rejection": {
+      "calculated": false,
+      "reason": "No paired concentration measurements supplied."
+    }
+  },
+  "mixing": [
+    {
+      "assumed_gradient_s_inverse": 700,
+      "fluid_power_W": 9.8
+    },
+    {
+      "assumed_gradient_s_inverse": 50,
+      "fluid_power_W": 0.05
+    }
+  ],
+  "source": "manuscript/latex/BLUESHIELD_BINAVO.tex, Preliminary Engineering Assessment, equations cycle through lrv; legacy manuscript calculation record (not packaged)",
+  "status": "deterministic_illustrative_calculations_not_experimental_results",
+  "uvpath": {
+    "calculated": false,
+    "reason": "No in-water trajectory measurements supplied; trajectory_fluence implements sampled quadrature."
+  },
+  "uvvolume": [
+    {
+      "assumed_in_water_rate_mW_cm2": 0.25,
+      "exposure_s": 160.0,
+      "ideal_water_volume_L": 0.444444444444
+    },
+    {
+      "assumed_in_water_rate_mW_cm2": 0.5,
+      "exposure_s": 80.0,
+      "ideal_water_volume_L": 0.222222222222
+    },
+    {
+      "assumed_in_water_rate_mW_cm2": 1.0,
+      "exposure_s": 40.0,
+      "ideal_water_volume_L": 0.111111111111
+    }
+  ]
+}

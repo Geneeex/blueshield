@@ -1,0 +1,140 @@
+{
+  "scope": "Bundled model assets, scripts, and metadata; paths are relative to models/.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 60,
+      "sha256": "293fa05f22d59af2e82c09d1e0b9229cd20c24b5a9b922d6982fdcba3e94954d"
+    },
+    {
+      "path": "clean_model_manifest.json",
+      "bytes": 12142,
+      "sha256": "1c5d69cfc91c33e046dbb9823bb5166834145825041e1f8490db9c4c89930858"
+    },
+    {
+      "path": "label_layout_verification.json",
+      "bytes": 15822,
+      "sha256": "2535d37a959728e2b6b974fb5cfc2c4634c2a0b9c6e378c4ccb9ded527c143a7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6088,
+      "sha256": "f0b4834d1f68c9b44eb42d3eef9d5fc6e652fdf9eff90ed4379100149a2a2ac0"
+    },
+    {
+      "path": "renders/archive/01_Intake_and_Screen_clean.png",
+      "bytes": 2856306,
+      "sha256": "f5636873b6528f8e12a36b8b67d148013fa5e3548cdd4444d68f0d65cd01dc3a"
+    },
+    {
+      "path": "renders/archive/02_Coagulation_and_Flocculation_clean.png",
+      "bytes": 2836819,
+      "sha256": "a75c50ee36c55aad08edabb764a120e9636c36601d0d5a2f156e38f72da939a6"
+    },
+    {
+      "path": "renders/archive/03_Settling_and_Sludge_clean.png",
+      "bytes": 2960002,
+      "sha256": "4d6d4a86a5a4a63523dede87a067579269d4959ce269e5b0334324ccd98b7ab6"
+    },
+    {
+      "path": "renders/archive/04_Supported_GO_Cartridge_clean.png",
+      "bytes": 2953943,
+      "sha256": "5db7ff2ee92e616b667520c88d8575d5a9cb265a3939e36348ac0d5daa9b3520"
+    },
+    {
+      "path": "renders/archive/05_Terminal_UVC_Reactor_clean.png",
+      "bytes": 2531357,
+      "sha256": "ea1f72a3d781ccd776143f4a0e375edeb57706b527458cb650fd5868727dd1b8"
+    },
+    {
+      "path": "renders/archive/06_Protected_Storage_and_Sensing_clean.png",
+      "bytes": 2719188,
+      "sha256": "c9aa92c701ca6d4467d77f40201305621e6f984483758db58a6b20c76794f93f"
+    },
+    {
+      "path": "renders/archive/07_Integrated_Machine_clean.png",
+      "bytes": 2635507,
+      "sha256": "6500f30daafb7cab11291da8d07a6c11df14f4ca9c09a60825e0860e32eef085"
+    },
+    {
+      "path": "renders/archive/08_Industrial_Installation_clean.png",
+      "bytes": 3310874,
+      "sha256": "30283c13b39692772156d91cff67c75c6bb39d6e1d0d3453a013913e5931201e"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 53,
+      "sha256": "5336851b1e31cda40c1aab5fe18c6be6d602c21c0845fa40c858e11ba8624321"
+    },
+    {
+      "path": "sanitization_manifest.json",
+      "bytes": 23658,
+      "sha256": "35eaaa440414d48783db41124f270aa678100fb6acc208c8becc46657594b4bd"
+    },
+    {
+      "path": "scenes/01_Intake_and_Screen_clean.blend",
+      "bytes": 1005136,
+      "sha256": "5678b4a87af4daab041d0ad0030f222bb17bdaf663b72e28c7d316c60d69b604"
+    },
+    {
+      "path": "scenes/02_Coagulation_and_Flocculation_clean.blend",
+      "bytes": 1083684,
+      "sha256": "5388d70b7a6c42173bfdb93e539278bdda66d074f803fc81bdc00619ed4e1595"
+    },
+    {
+      "path": "scenes/03_Settling_and_Sludge_clean.blend",
+      "bytes": 823728,
+      "sha256": "c81dee8363cc7ebdf9cff03bbe0a301bbc8cecadfaa9ffaee831df0754d73874"
+    },
+    {
+      "path": "scenes/04_Supported_GO_Cartridge_clean.blend",
+      "bytes": 1525548,
+      "sha256": "d287e3b69433eb148d8f6215d4f70151e72e372796dbcd4fe190aec30db262b4"
+    },
+    {
+      "path": "scenes/05_Terminal_UVC_Reactor_clean.blend",
+      "bytes": 995836,
+      "sha256": "457facc063ff418b6b1bcaf49535654c1496e245f5037d1aa0426004a5bea3af"
+    },
+    {
+      "path": "scenes/06_Protected_Storage_and_Sensing_clean.blend",
+      "bytes": 807024,
+      "sha256": "1510060d7ff078ad4b90b65ff65d02321aee3023ae462c598b2725f6e47fbf90"
+    },
+    {
+      "path": "scenes/07_Integrated_Machine_clean.blend",
+      "bytes": 3306616,
+      "sha256": "00401a6e8b0edc550ce3ab7eba06eae1c5ad96884719eca76ce0fc5881b0b5dc"
+    },
+    {
+      "path": "scenes/08_Industrial_Installation_clean.blend",
+      "bytes": 3739548,
+      "sha256": "4aaecb8c8641a70bb44389af67ced74de379b318c9b9a06835f66c3807f58e2d"
+    },
+    {
+      "path": "scripts/_render_in_blender.py",
+      "bytes": 4074,
+      "sha256": "de93cb13a0ddc0ae7b8b9df5b7222d077341e3482764fd4f485fa938deac4fee"
+    },
+    {
+      "path": "scripts/label_model_figures.py",
+      "bytes": 7991,
+      "sha256": "97eb20fd5731dcf885ff4d5f1eb8e1ca8c01f9f9783a29c4e10eb7262ff4a868"
+    },
+    {
+      "path": "scripts/render_models.py",
+      "bytes": 1774,
+      "sha256": "64bab899838b322a434b42022ce89ec9f2f24cb9dd79ca4fefa61cc4d14c301b"
+    },
+    {
+      "path": "scripts/sanitize_scenes.py",
+      "bytes": 11830,
+      "sha256": "0004ca3f3d54acc7031d3a6c5b9c0e8ccdc6abdd553e3ce07c9fb6a451c0c6d1"
+    },
+    {
+      "path": "verification.json",
+      "bytes": 4616,
+      "sha256": "b2f6e8280f3a0cc7216c4b89dac8be6eca5699d9a24d4bab144734f26b2624d8"
+    }
+  ]
+}

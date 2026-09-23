@@ -1,0 +1,371 @@
+[
+  {
+    "label": "fig:f1",
+    "number": 1,
+    "page": 3,
+    "section": "Survey Results",
+    "subsection": "Composition of the sample",
+    "container": "inlinefigure",
+    "source_line": 151,
+    "assets": [
+      "figures/original_01.png"
+    ]
+  },
+  {
+    "label": "fig:f2",
+    "number": 2,
+    "page": 3,
+    "section": "Survey Results",
+    "subsection": "Composition of the sample",
+    "container": "inlinefigure",
+    "source_line": 159,
+    "assets": [
+      "figures/original_02.png"
+    ]
+  },
+  {
+    "label": "fig:f3",
+    "number": 3,
+    "page": 3,
+    "section": "Survey Results",
+    "subsection": "Composition of the sample",
+    "container": "inlinefigure",
+    "source_line": 169,
+    "assets": [
+      "figures/original_03.png"
+    ]
+  },
+  {
+    "label": "fig:f4",
+    "number": 4,
+    "page": 3,
+    "section": "Survey Results",
+    "subsection": "Composition of the sample",
+    "container": "inlinefigure",
+    "source_line": 177,
+    "assets": [
+      "figures/original_04.png"
+    ]
+  },
+  {
+    "label": "fig:f5",
+    "number": 5,
+    "page": 4,
+    "section": "Survey Results",
+    "subsection": "Perceptions of the concept",
+    "container": "inlinefigure",
+    "source_line": 191,
+    "assets": [
+      "figures/original_05.png"
+    ]
+  },
+  {
+    "label": "fig:f6",
+    "number": 6,
+    "page": 4,
+    "section": "Survey Results",
+    "subsection": "Perceptions of the concept",
+    "container": "inlinefigure",
+    "source_line": 199,
+    "assets": [
+      "figures/original_06.png"
+    ]
+  },
+  {
+    "label": "fig:f7",
+    "number": 7,
+    "page": 4,
+    "section": "Survey Results",
+    "subsection": "Perceptions of the concept",
+    "container": "inlinefigure",
+    "source_line": 211,
+    "assets": [
+      "figures/original_07.png"
+    ]
+  },
+  {
+    "label": "fig:f8",
+    "number": 8,
+    "page": 4,
+    "section": "Survey Results",
+    "subsection": "Perceptions of the concept",
+    "container": "inlinefigure",
+    "source_line": 219,
+    "assets": [
+      "figures/original_08.png"
+    ]
+  },
+  {
+    "label": "fig:f9",
+    "number": 9,
+    "page": 4,
+    "section": "Survey Results",
+    "subsection": "Perceptions of the concept",
+    "container": "inlinefigure",
+    "source_line": 227,
+    "assets": [
+      "figures/original_09.png"
+    ]
+  },
+  {
+    "label": "fig:f10",
+    "number": 10,
+    "page": 5,
+    "section": "Survey Results",
+    "subsection": "Perceptions of the concept",
+    "container": "inlinefigure",
+    "source_line": 237,
+    "assets": [
+      "figures/original_10.png"
+    ]
+  },
+  {
+    "label": "fig:f11",
+    "number": 11,
+    "page": 5,
+    "section": "Survey Results",
+    "subsection": "Reported implementation concerns",
+    "container": "inlinefigure",
+    "source_line": 251,
+    "assets": [
+      "figures/original_11.png"
+    ]
+  },
+  {
+    "label": "fig:f12",
+    "number": 12,
+    "page": 5,
+    "section": "Survey Results",
+    "subsection": "Reported implementation concerns",
+    "container": "inlinefigure",
+    "source_line": 261,
+    "assets": [
+      "figures/original_12.png"
+    ]
+  },
+  {
+    "label": "fig:f13",
+    "number": 13,
+    "page": 5,
+    "section": "Survey Results",
+    "subsection": "Reported implementation concerns",
+    "container": "inlinefigure",
+    "source_line": 271,
+    "assets": [
+      "figures/original_13.png"
+    ]
+  },
+  {
+    "label": "fig:f14",
+    "number": 14,
+    "page": 5,
+    "section": "Survey Results",
+    "subsection": "Reproducible aggregate checks",
+    "container": "inlinefigure",
+    "source_line": 283,
+    "assets": [
+      "figures/original_14.png"
+    ]
+  },
+  {
+    "label": "fig:f15",
+    "number": 15,
+    "page": 6,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Treatment sequence and pretreatment",
+    "container": "inlinefigure",
+    "source_line": 299,
+    "assets": [
+      "figures/original_15.jpeg"
+    ]
+  },
+  {
+    "label": "fig:coag_evidence",
+    "number": 16,
+    "page": 6,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Treatment sequence and pretreatment",
+    "container": "inlinefigure",
+    "source_line": 308,
+    "assets": [
+      "figures/krupinska2020_fig3.jpg"
+    ]
+  },
+  {
+    "label": "fig:f16",
+    "number": 17,
+    "page": 6,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Defined graphene-based separation stage",
+    "container": "inlinefigure",
+    "source_line": 323,
+    "assets": [
+      "figures/original_16.jpeg"
+    ]
+  },
+  {
+    "label": "fig:f17",
+    "number": 18,
+    "page": 6,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Defined graphene-based separation stage",
+    "container": "inlinefigure",
+    "source_line": 331,
+    "assets": [
+      "figures/original_17.png"
+    ]
+  },
+  {
+    "label": "fig:f18",
+    "number": 19,
+    "page": 7,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Defined graphene-based separation stage",
+    "container": "inlinefigure",
+    "source_line": 341,
+    "assets": [
+      "figures/original_18.png"
+    ]
+  },
+  {
+    "label": "fig:f19",
+    "number": 20,
+    "page": 7,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Terminal UV-C disinfection",
+    "container": "inlinefigure",
+    "source_line": 357,
+    "assets": [
+      "figures/original_19.jpeg"
+    ]
+  },
+  {
+    "label": "fig:f20",
+    "number": 21,
+    "page": 7,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Terminal UV-C disinfection",
+    "container": "inlinefigure",
+    "source_line": 367,
+    "assets": [
+      "figures/original_20.png"
+    ]
+  },
+  {
+    "label": "fig:stages12",
+    "number": 22,
+    "page": 8,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Three-dimensional stage visualization",
+    "container": "inlinefigure",
+    "source_line": 388,
+    "assets": [
+      "figures/01_Intake_and_Screen.pdf",
+      "figures/02_Coagulation_and_Flocculation.pdf"
+    ]
+  },
+  {
+    "label": "fig:stages34",
+    "number": 23,
+    "page": 8,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Three-dimensional stage visualization",
+    "container": "inlinefigure",
+    "source_line": 395,
+    "assets": [
+      "figures/03_Settling_and_Sludge.pdf",
+      "figures/04_Supported_GO_Cartridge.pdf"
+    ]
+  },
+  {
+    "label": "fig:stages56",
+    "number": 24,
+    "page": 9,
+    "section": "Blueshield Filter Concept",
+    "subsection": "Three-dimensional stage visualization",
+    "container": "inlinefigure",
+    "source_line": 402,
+    "assets": [
+      "figures/05_Terminal_UVC_Reactor.pdf",
+      "figures/06_Protected_Storage_and_Sensing.pdf"
+    ]
+  },
+  {
+    "label": "tab:assumptions",
+    "number": 1,
+    "page": 9,
+    "section": "Preliminary engineering assessment",
+    "subsection": null,
+    "container": "inlinetable",
+    "source_line": 413,
+    "assets": []
+  },
+  {
+    "label": "fig:sensitivity",
+    "number": 25,
+    "page": 10,
+    "section": "Preliminary engineering assessment",
+    "subsection": "Membrane area and pressure compatibility",
+    "container": "inlinefigure",
+    "source_line": 476,
+    "assets": [
+      "figures/design_sensitivity.pdf"
+    ]
+  },
+  {
+    "label": "tab:uv",
+    "number": 2,
+    "page": 10,
+    "section": "Preliminary engineering assessment",
+    "subsection": "UV exposure and pumping work",
+    "container": "inlinetable",
+    "source_line": 503,
+    "assets": []
+  },
+  {
+    "label": "tab:traceability",
+    "number": 3,
+    "page": 11,
+    "section": "Discussion",
+    "subsection": null,
+    "container": "inlinetable",
+    "source_line": 546,
+    "assets": []
+  },
+  {
+    "label": "fig:f21",
+    "number": 26,
+    "page": 11,
+    "section": "Discussion",
+    "subsection": null,
+    "container": "inlinefigure",
+    "source_line": 573,
+    "assets": [
+      "figures/original_21.png"
+    ]
+  },
+  {
+    "label": "fig:machine",
+    "number": 27,
+    "page": 12,
+    "section": "Discussion",
+    "subsection": "Integrated machine and industrial installation",
+    "container": "minipage",
+    "source_line": 590,
+    "assets": [
+      "figures/07_Integrated_Machine.pdf"
+    ]
+  },
+  {
+    "label": "fig:industrial",
+    "number": 28,
+    "page": 12,
+    "section": "Discussion",
+    "subsection": "Integrated machine and industrial installation",
+    "container": "minipage",
+    "source_line": 596,
+    "assets": [
+      "figures/08_Industrial_Installation.pdf"
+    ]
+  }
+]

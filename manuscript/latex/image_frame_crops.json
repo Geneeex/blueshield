@@ -1,0 +1,296 @@
+[
+  {
+    "asset": "figures/original_01.png",
+    "native_size": [
+      700,
+      458
+    ],
+    "retained_box": [
+      0,
+      0,
+      700,
+      458
+    ],
+    "width_ratio": 0.8439
+  },
+  {
+    "asset": "figures/original_02.png",
+    "native_size": [
+      691,
+      554
+    ],
+    "retained_box": [
+      1,
+      0,
+      691,
+      549
+    ],
+    "width_ratio": 0.8427
+  },
+  {
+    "asset": "figures/original_03.png",
+    "native_size": [
+      654,
+      505
+    ],
+    "retained_box": [
+      0,
+      0,
+      647,
+      473
+    ],
+    "width_ratio": 0.8349
+  },
+  {
+    "asset": "figures/original_04.png",
+    "native_size": [
+      707,
+      437
+    ],
+    "retained_box": [
+      0,
+      0,
+      707,
+      437
+    ],
+    "width_ratio": 0.9409
+  },
+  {
+    "asset": "figures/original_05.png",
+    "native_size": [
+      712,
+      652
+    ],
+    "retained_box": [
+      0,
+      0,
+      712,
+      652
+    ],
+    "width_ratio": 0.97
+  },
+  {
+    "asset": "figures/original_06.png",
+    "native_size": [
+      599,
+      417
+    ],
+    "retained_box": [
+      95,
+      32,
+      502,
+      379
+    ],
+    "width_ratio": 0.5734
+  },
+  {
+    "asset": "figures/original_07.png",
+    "native_size": [
+      750,
+      488
+    ],
+    "retained_box": [
+      36,
+      0,
+      687,
+      488
+    ],
+    "width_ratio": 0.8167
+  },
+  {
+    "asset": "figures/original_08.png",
+    "native_size": [
+      607,
+      396
+    ],
+    "retained_box": [
+      35,
+      0,
+      560,
+      396
+    ],
+    "width_ratio": 0.8138
+  },
+  {
+    "asset": "figures/original_09.png",
+    "native_size": [
+      738,
+      506
+    ],
+    "retained_box": [
+      31,
+      0,
+      701,
+      506
+    ],
+    "width_ratio": 0.8542
+  },
+  {
+    "asset": "figures/original_10.png",
+    "native_size": [
+      682,
+      423
+    ],
+    "retained_box": [
+      108,
+      26,
+      598,
+      410
+    ],
+    "width_ratio": 0.6063
+  },
+  {
+    "asset": "figures/original_11.png",
+    "native_size": [
+      800,
+      561
+    ],
+    "retained_box": [
+      43,
+      0,
+      752,
+      559
+    ],
+    "width_ratio": 0.8339
+  },
+  {
+    "asset": "figures/original_12.png",
+    "native_size": [
+      742,
+      511
+    ],
+    "retained_box": [
+      41,
+      0,
+      706,
+      505
+    ],
+    "width_ratio": 0.8433
+  },
+  {
+    "asset": "figures/original_13.png",
+    "native_size": [
+      726,
+      509
+    ],
+    "retained_box": [
+      42,
+      0,
+      660,
+      505
+    ],
+    "width_ratio": 0.8009
+  },
+  {
+    "asset": "figures/original_14.png",
+    "native_size": [
+      1800,
+      1040
+    ],
+    "retained_box": [
+      27,
+      28,
+      1656,
+      1002
+    ],
+    "width_ratio": 0.8515
+  },
+  {
+    "asset": "figures/original_15.jpeg",
+    "native_size": [
+      701,
+      700
+    ],
+    "retained_box": [
+      37,
+      160,
+      695,
+      627
+    ],
+    "width_ratio": 0.8832
+  },
+  {
+    "asset": "figures/original_16.jpeg",
+    "native_size": [
+      660,
+      660
+    ],
+    "retained_box": [
+      15,
+      74,
+      628,
+      599
+    ],
+    "width_ratio": 0.8739
+  },
+  {
+    "asset": "figures/original_17.png",
+    "native_size": [
+      1600,
+      1000
+    ],
+    "retained_box": [
+      0,
+      0,
+      1600,
+      1000
+    ],
+    "width_ratio": 0.9409
+  },
+  {
+    "asset": "figures/original_18.png",
+    "native_size": [
+      1322,
+      1165
+    ],
+    "retained_box": [
+      2,
+      0,
+      1311,
+      1165
+    ],
+    "width_ratio": 0.9316
+  },
+  {
+    "asset": "figures/original_19.jpeg",
+    "native_size": [
+      640,
+      640
+    ],
+    "retained_box": [
+      27,
+      143,
+      624,
+      524
+    ],
+    "width_ratio": 0.8777
+  },
+  {
+    "asset": "figures/original_20.png",
+    "native_size": [
+      965,
+      551
+    ],
+    "retained_box": [
+      6,
+      0,
+      953,
+      551
+    ],
+    "width_ratio": 0.9233
+  },
+  {
+    "asset": "figures/original_21.png",
+    "native_size": [
+      1433,
+      1014
+    ],
+    "retained_box": [
+      0,
+      0,
+      1433,
+      1014
+    ],
+    "width_ratio": 0.9409
+  }
+]

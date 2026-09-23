@@ -1,0 +1,34 @@
+{
+  "baseline_check": {
+    "different_or_missing_files": [],
+    "excluded_from_comparison": [
+      "software_test_report.json",
+      "*.png"
+    ],
+    "requested": true,
+    "status": "passed"
+  },
+  "determinism": "Core JSON/CSV use fixed 12-significant-digit precision, UTF-8 and LF line endings; no clocks or random sampling.",
+  "plots": {
+    "files": [],
+    "reason": "--no-plots requested.",
+    "status": "skipped"
+  },
+  "scope": "Software tests verify implemented arithmetic, not the reported data, treatment performance or clinical safety.",
+  "software": {
+    "core_dependencies": "Python standard library",
+    "implementation": "CPython",
+    "package_version": "1.0.0",
+    "python": "3.13.5"
+  },
+  "tests": {
+    "errors": [],
+    "expected_failures": 0,
+    "failures": [],
+    "scope": "Software arithmetic, dimensions, invalid inputs and source-aggregate consistency only; no empirical validation.",
+    "skipped": [],
+    "status": "passed",
+    "tests_run": 41,
+    "unexpected_successes": 0
+  }
+}

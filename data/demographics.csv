@@ -1,0 +1,11 @@
+group,category,count,denominator,status,source
+country,Bangladesh,75,125,reported_aggregate,manuscript Survey Results and original country graphic
+country,India,25,125,reported_aggregate,manuscript Survey Results and original country graphic
+country,Pakistan,25,125,reported_aggregate,manuscript Survey Results and original country graphic
+status,Student,70,125,reported_aggregate,manuscript Survey Results and original status graphic
+status,Professional,55,125,reported_aggregate,manuscript Survey Results and original status graphic
+discipline,Mechanical engineering,10,125,reported_aggregate,manuscript Survey Results and original discipline graphic
+discipline,Computer science engineering,12,125,reported_aggregate,manuscript Survey Results and original discipline graphic
+discipline,Electrical and electronic engineering,8,125,reported_aggregate,manuscript Survey Results and original discipline graphic
+discipline,Civil engineering,45,125,reported_aggregate,manuscript Survey Results and original discipline graphic
+discipline,Environmental science,50,125,reported_aggregate,manuscript Survey Results and original discipline graphic

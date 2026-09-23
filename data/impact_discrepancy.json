@@ -1,0 +1,16 @@
+{
+  "item": "anticipated_impact",
+  "status": "unresolved_conflicting_source_summaries",
+  "exclude_from_analysis": true,
+  "selected_distribution": null,
+  "narrative_and_summary_percentages": {
+    "social": 65.6,
+    "environmental": 21.6,
+    "economic": 12.8
+  },
+  "original_pie_percentages": null,
+  "original_pie_source": "manuscript/latex/figures/original_10.png",
+  "source": "Original manuscript narrative and summary image; revised manuscript impact-chart caption records the unresolved discrepancy.",
+  "reason": "The retained pie chart conflicts with the narrative and summary. No respondent-level records establish which version is correct. Original pie values are not re-entered here without visual verification. Neither version enters the favorable-perception analysis.",
+  "resolution_needed": "Author verification against original item wording, response export, denominator, and chart-generation procedure."
+}

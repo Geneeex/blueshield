@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "dataset_kind": "transcribed_reported_manuscript_aggregates_not_respondent_records",
+  "reported_sample_size": 125,
+  "reported_professional_interview_subsample_size": 25,
+  "source_manuscript": "manuscript/latex/BLUESHIELD_BINAVO.tex",
+  "source_reproducibility": "Legacy supplied manuscript calculation records (not included); this package reproduces the arithmetic through scripts/reproduce.py.",
+  "experience_or_interest": {
+    "yes_pct": 57.6,
+    "no_pct": 42.4,
+    "status": "reported_aggregate",
+    "interpretation": "Experience and interest were grouped; yes does not imply practical expertise."
+  },
+  "unavailable": [
+    "respondent-level data",
+    "complete questionnaire",
+    "recruitment probabilities and procedures",
+    "collection dates",
+    "item-specific denominators and missingness",
+    "consent and ethics documentation",
+    "interview transcripts and coding trail",
+    "experimental treatment measurements"
+  ],
+  "constraints": [
+    "No participants or responses are synthesized.",
+    "Reconstructed counts are conditional arithmetic, not recovered observations.",
+    "Reported interview prompts are distinct and may overlap.",
+    "Original charts marked Adjusted lack a documented weighting procedure.",
+    "The impact item is excluded from substantive analysis.",
+    "No inferential statistics or treatment-performance estimates are produced."
+  ]
+}

@@ -1,0 +1,2 @@
+# Core calculations, CSV/JSON export and unit tests use Python's standard library.
+# Python 3.11 or newer; no packages are required for these tasks.

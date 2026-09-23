@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+.DS_Store
+Thumbs.db
+*.blend1
+*.blend2
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.zip
+.env
+.env.*
+!.env.example
+# Standalone third-party template/font dependencies are obtained separately.
+*.pfb
+*.ttf
+*.otf
+vendor/
+# Never commit future identifiable participant or unapproved laboratory records.
+data/private/
+
+# Regenerated model previews are local build products.
+models/generated/

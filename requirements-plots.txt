@@ -1,0 +1,2 @@
+# Optional scientific plots; core calculations do not require matplotlib.
+matplotlib==3.11.2

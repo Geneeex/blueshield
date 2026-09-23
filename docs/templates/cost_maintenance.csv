@@ -1,0 +1,1 @@
+event_id,run_id,asset_id,event_type,event_date,component_or_consumable,quantity,quantity_unit,currency,unit_cost,total_cost,labour_time_min,operator_role,downtime_min,delivered_volume_L,electrical_energy_Wh,measurement_or_receipt_id,allocation_basis,notes

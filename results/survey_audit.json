@@ -1,0 +1,272 @@
+{
+  "demographics": {
+    "discipline_count_median": 12,
+    "groups": {
+      "country": {
+        "count_total": 125,
+        "reconciles": true,
+        "stated_denominator": 125
+      },
+      "discipline": {
+        "count_total": 125,
+        "reconciles": true,
+        "stated_denominator": 125
+      },
+      "status": {
+        "count_total": 125,
+        "reconciles": true,
+        "stated_denominator": 125
+      }
+    },
+    "median_interpretation": "Median of five category sizes, not a participant-level outcome.",
+    "rows": [
+      {
+        "calculated_pct": 60.0,
+        "category": "Bangladesh",
+        "count": 75,
+        "denominator": 125,
+        "group": "country",
+        "source": "manuscript Survey Results and original country graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 20.0,
+        "category": "India",
+        "count": 25,
+        "denominator": 125,
+        "group": "country",
+        "source": "manuscript Survey Results and original country graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 20.0,
+        "category": "Pakistan",
+        "count": 25,
+        "denominator": 125,
+        "group": "country",
+        "source": "manuscript Survey Results and original country graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 56.0,
+        "category": "Student",
+        "count": 70,
+        "denominator": 125,
+        "group": "status",
+        "source": "manuscript Survey Results and original status graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 44.0,
+        "category": "Professional",
+        "count": 55,
+        "denominator": 125,
+        "group": "status",
+        "source": "manuscript Survey Results and original status graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 8.0,
+        "category": "Mechanical engineering",
+        "count": 10,
+        "denominator": 125,
+        "group": "discipline",
+        "source": "manuscript Survey Results and original discipline graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 9.6,
+        "category": "Computer science engineering",
+        "count": 12,
+        "denominator": 125,
+        "group": "discipline",
+        "source": "manuscript Survey Results and original discipline graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 6.4,
+        "category": "Electrical and electronic engineering",
+        "count": 8,
+        "denominator": 125,
+        "group": "discipline",
+        "source": "manuscript Survey Results and original discipline graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 36.0,
+        "category": "Civil engineering",
+        "count": 45,
+        "denominator": 125,
+        "group": "discipline",
+        "source": "manuscript Survey Results and original discipline graphic",
+        "status": "reported_aggregate"
+      },
+      {
+        "calculated_pct": 40.0,
+        "category": "Environmental science",
+        "count": 50,
+        "denominator": 125,
+        "group": "discipline",
+        "source": "manuscript Survey Results and original discipline graphic",
+        "status": "reported_aggregate"
+      }
+    ]
+  },
+  "excluded_items": [
+    "anticipated_impact"
+  ],
+  "impact_discrepancy": {
+    "exclude_from_analysis": true,
+    "item": "anticipated_impact",
+    "narrative_and_summary_percentages": {
+      "economic": 12.8,
+      "environmental": 21.6,
+      "social": 65.6
+    },
+    "original_pie_percentages": null,
+    "original_pie_source": "manuscript/latex/figures/original_10.png",
+    "reason": "The retained pie chart conflicts with the narrative and summary. No respondent-level records establish which version is correct. Original pie values are not re-entered here without visual verification. Neither version enters the favorable-perception analysis.",
+    "resolution_needed": "Author verification against original item wording, response export, denominator, and chart-generation procedure.",
+    "selected_distribution": null,
+    "source": "Original manuscript narrative and summary image; revised manuscript impact-chart caption records the unresolved discrepancy.",
+    "status": "unresolved_conflicting_source_summaries"
+  },
+  "inference_performed": false,
+  "interviews": {
+    "interpretation": "Distinct prompts/categories may overlap; no combined prevalence, coding reliability or saturation is inferred.",
+    "rows": [
+      {
+        "calculated_pct": 80.0,
+        "count": 20,
+        "denominator": 25,
+        "interpretation": "reported concern; categories may overlap",
+        "item": "environmental_conditions",
+        "source": "manuscript implementation concerns and original technical concerns graphic",
+        "status": "reported_aggregate_unverified_coding"
+      },
+      {
+        "calculated_pct": 60.0,
+        "count": 15,
+        "denominator": 25,
+        "interpretation": "reported concern; categories may overlap",
+        "item": "energy_efficiency_or_scalability",
+        "source": "manuscript implementation concerns and original technical concerns graphic",
+        "status": "reported_aggregate_unverified_coding"
+      },
+      {
+        "calculated_pct": 72.0,
+        "count": 18,
+        "denominator": 25,
+        "interpretation": "reported concern; categories may overlap",
+        "item": "affordability",
+        "source": "manuscript implementation concerns and original socioeconomic graphic",
+        "status": "reported_aggregate_unverified_coding"
+      },
+      {
+        "calculated_pct": 88.0,
+        "count": 22,
+        "denominator": 25,
+        "interpretation": "combined agreement with anticipated benefit; not observed health outcome",
+        "item": "public_health_benefits",
+        "source": "manuscript implementation concerns and original socioeconomic graphic",
+        "status": "reported_aggregate_unverified_coding"
+      },
+      {
+        "calculated_pct": 92.0,
+        "count": 23,
+        "denominator": 25,
+        "interpretation": "reported agreement; not geographic comparative analysis",
+        "item": "regional_factors",
+        "source": "manuscript implementation concerns and original regional graphic",
+        "status": "reported_aggregate_unverified_coding"
+      },
+      {
+        "calculated_pct": 88.0,
+        "count": 22,
+        "denominator": 25,
+        "interpretation": "reported agreement; not measured cross-border outcome",
+        "item": "cross_border_relevance",
+        "source": "manuscript implementation concerns and original regional graphic",
+        "status": "reported_aggregate_unverified_coding"
+      }
+    ]
+  },
+  "metadata": {
+    "constraints": [
+      "No participants or responses are synthesized.",
+      "Reconstructed counts are conditional arithmetic, not recovered observations.",
+      "Reported interview prompts are distinct and may overlap.",
+      "Original charts marked Adjusted lack a documented weighting procedure.",
+      "The impact item is excluded from substantive analysis.",
+      "No inferential statistics or treatment-performance estimates are produced."
+    ],
+    "dataset_kind": "transcribed_reported_manuscript_aggregates_not_respondent_records",
+    "experience_or_interest": {
+      "interpretation": "Experience and interest were grouped; yes does not imply practical expertise.",
+      "no_pct": 42.4,
+      "status": "reported_aggregate",
+      "yes_pct": 57.6
+    },
+    "reported_professional_interview_subsample_size": 25,
+    "reported_sample_size": 125,
+    "schema_version": "1.0",
+    "source_manuscript": "manuscript/latex/BLUESHIELD_BINAVO.tex",
+    "source_reproducibility": "Legacy supplied manuscript calculation records (not included); this package reproduces the arithmetic through scripts/reproduce.py.",
+    "unavailable": [
+      "respondent-level data",
+      "complete questionnaire",
+      "recruitment probabilities and procedures",
+      "collection dates",
+      "item-specific denominators and missingness",
+      "consent and ethics documentation",
+      "interview transcripts and coding trail",
+      "experimental treatment measurements"
+    ]
+  },
+  "perceptions": [
+    {
+      "assumed_denominator": 125,
+      "compatible_with_integer_count": true,
+      "conditional_count_equivalent": 105,
+      "count_status": "conditional_arithmetic_not_verified_observed_count",
+      "favorable_pct": 84.0,
+      "item": "feasibility",
+      "somewhat_label": "somewhat feasible",
+      "somewhat_pct": 44.8,
+      "source": "manuscript Survey Results and original feasibility graphic",
+      "status": "reported_percentage_conditional_denominator",
+      "very_label": "very feasible",
+      "very_pct": 39.2
+    },
+    {
+      "assumed_denominator": 125,
+      "compatible_with_integer_count": true,
+      "conditional_count_equivalent": 108,
+      "count_status": "conditional_arithmetic_not_verified_observed_count",
+      "favorable_pct": 86.4,
+      "item": "anticipated_effectiveness",
+      "somewhat_label": "somewhat effective",
+      "somewhat_pct": 37.6,
+      "source": "manuscript Survey Results and original effectiveness graphic",
+      "status": "reported_percentage_conditional_denominator",
+      "very_label": "very effective",
+      "very_pct": 48.8
+    },
+    {
+      "assumed_denominator": 125,
+      "compatible_with_integer_count": true,
+      "conditional_count_equivalent": 115,
+      "count_status": "conditional_arithmetic_not_verified_observed_count",
+      "favorable_pct": 92.0,
+      "item": "monitoring_benefit",
+      "somewhat_label": "somewhat beneficial",
+      "somewhat_pct": 30.4,
+      "source": "manuscript Survey Results and original monitoring graphic",
+      "status": "reported_percentage_conditional_denominator",
+      "very_label": "very beneficial",
+      "very_pct": 61.6
+    }
+  ],
+  "respondent_records_generated": false,
+  "status": "descriptive_aggregate_audit_not_inferential_analysis"
+}

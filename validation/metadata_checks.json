@@ -1,0 +1,13 @@
+{
+  "citation_schema": "https://raw.githubusercontent.com/citation-file-format/citation-file-format/1.2.0/schema.json",
+  "citation_schema_validation": "passed",
+  "citation_author_order": [
+    "Sabik Bin Sultan",
+    "Shafi Bin Sultan"
+  ],
+  "workflow_yaml": "parsed",
+  "workflow_matrix_jobs": 6,
+  "remote_workflow_run": "not_run; repository not uploaded",
+  "PyYAML": "6.0.3",
+  "jsonschema": "4.26.0"
+}

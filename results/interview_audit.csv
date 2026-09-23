@@ -1,0 +1,7 @@
+item,count,denominator,interpretation,status,source,calculated_pct
+environmental_conditions,20,25,reported concern; categories may overlap,reported_aggregate_unverified_coding,manuscript implementation concerns and original technical concerns graphic,80
+energy_efficiency_or_scalability,15,25,reported concern; categories may overlap,reported_aggregate_unverified_coding,manuscript implementation concerns and original technical concerns graphic,60
+affordability,18,25,reported concern; categories may overlap,reported_aggregate_unverified_coding,manuscript implementation concerns and original socioeconomic graphic,72
+public_health_benefits,22,25,combined agreement with anticipated benefit; not observed health outcome,reported_aggregate_unverified_coding,manuscript implementation concerns and original socioeconomic graphic,88
+regional_factors,23,25,reported agreement; not geographic comparative analysis,reported_aggregate_unverified_coding,manuscript implementation concerns and original regional graphic,92
+cross_border_relevance,22,25,reported agreement; not measured cross-border outcome,reported_aggregate_unverified_coding,manuscript implementation concerns and original regional graphic,88

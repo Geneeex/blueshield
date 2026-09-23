@@ -1,0 +1,54 @@
+equation_group,scenario,quantity,value,unit,status
+cycle,main,product_L,18,L,illustrative_calculation
+cycle,main,pretreatment_min,81,min,illustrative_calculation
+cycle,main,discharge_h,1.8,h,illustrative_calculation
+cycle,main,discharge_min,108,min,illustrative_calculation
+cycle,main,cycle_h,3.15,h,illustrative_calculation
+cycle,main,cycle_average_L_h,5.71428571429,L/h,illustrative_calculation
+alum,main.1,assumed_product_dose_mg_L,10,mg/L commercial product,illustrative_assumption
+alum,main.1,product_mass_g,0.2,g,illustrative_calculation
+alum,main.1,stock_volume_L,0.02,L,illustrative_calculation
+alum,main.1,stock_volume_mL,20,mL,illustrative_calculation
+alum,main.2,assumed_product_dose_mg_L,30,mg/L commercial product,illustrative_assumption
+alum,main.2,product_mass_g,0.6,g,illustrative_calculation
+alum,main.2,stock_volume_L,0.06,L,illustrative_calculation
+alum,main.2,stock_volume_mL,60,mL,illustrative_calculation
+alum,main.3,assumed_product_dose_mg_L,50,mg/L commercial product,illustrative_assumption
+alum,main.3,product_mass_g,1,g,illustrative_calculation
+alum,main.3,stock_volume_L,0.1,L,illustrative_calculation
+alum,main.3,stock_volume_mL,100,mL,illustrative_calculation
+mixing,main.1,assumed_gradient_s_inverse,700,1/s,illustrative_assumption
+mixing,main.1,fluid_power_W,9.8,W,illustrative_calculation
+mixing,main.2,assumed_gradient_s_inverse,50,1/s,illustrative_assumption
+mixing,main.2,fluid_power_W,0.05,W,illustrative_calculation
+membrane,main.area_scenarios.1,assumed_flux_LMH,10,L/(m^2*h),illustrative_assumption
+membrane,main.area_scenarios.1,active_area_m2,1,m^2,illustrative_calculation
+membrane,main.area_scenarios.2,assumed_flux_LMH,25,L/(m^2*h),illustrative_assumption
+membrane,main.area_scenarios.2,active_area_m2,0.4,m^2,illustrative_calculation
+membrane,main.area_scenarios.3,assumed_flux_LMH,50,L/(m^2*h),illustrative_assumption
+membrane,main.area_scenarios.3,active_area_m2,0.2,m^2,illustrative_calculation
+membrane,main.fouling_scenario,baseline_area_m2,0.4,m^2,illustrative_calculation
+membrane,main.fouling_scenario,remaining_flux_LMH,12.5,L/(m^2*h),illustrative_calculation
+membrane,main.fouling_scenario,flow_after_decline_L_h,5,L/h,illustrative_calculation
+head,main,pressure_Pa,4905,Pa,illustrative_calculation
+head,main,pressure_bar,0.04905,bar,illustrative_calculation
+head,main,comparison_water_head_m,10.1936799185,m,illustrative_calculation
+head,main,hypothetical_linear_flux_LMH,1.22625,L/(m^2*h),illustrative_calculation
+head,main,hypothetical_required_area_m2,8.15494393476,m^2,illustrative_calculation
+uvpath,function_only,not_calculated,,not_applicable,function_only_no_trajectory_data
+uvvolume,main.1,assumed_in_water_rate_mW_cm2,0.25,mW/cm^2,illustrative_assumption
+uvvolume,main.1,exposure_s,160,s,illustrative_calculation
+uvvolume,main.1,ideal_water_volume_L,0.444444444444,L,illustrative_calculation
+uvvolume,main.2,assumed_in_water_rate_mW_cm2,0.5,mW/cm^2,illustrative_assumption
+uvvolume,main.2,exposure_s,80,s,illustrative_calculation
+uvvolume,main.2,ideal_water_volume_L,0.222222222222,L,illustrative_calculation
+uvvolume,main.3,assumed_in_water_rate_mW_cm2,1,mW/cm^2,illustrative_assumption
+uvvolume,main.3,exposure_s,40,s,illustrative_calculation
+uvvolume,main.3,ideal_water_volume_L,0.111111111111,L,illustrative_calculation
+energy,main.1,assumed_total_pressure_bar,0.5,bar,illustrative_assumption
+energy,main.1,power_W,0.462962962963,W,illustrative_calculation
+energy,main.1,specific_energy_kWh_m3_pumped,0.0462962962963,kWh/m^3 pumped,illustrative_calculation
+energy,main.2,assumed_total_pressure_bar,2,bar,illustrative_assumption
+energy,main.2,power_W,1.85185185185,W,illustrative_calculation
+energy,main.2,specific_energy_kWh_m3_pumped,0.185185185185,kWh/m^3 pumped,illustrative_calculation
+lrv,function_only,not_calculated,,not_applicable,function_only_no_treatment_measurements

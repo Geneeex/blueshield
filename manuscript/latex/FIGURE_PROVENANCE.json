@@ -1,0 +1,137 @@
+{
+  "scope": "Original survey and Canva source-image files remain byte-for-byte unchanged. Surrounding frames are trimmed only at display time as recorded in image_frame_crops.json. External research figures are cited evidence, not BLUESHIELD results.",
+  "external_figures": [
+    {
+      "manuscript_figure": 16,
+      "asset": "figures/krupinska2020_fig3.jpg",
+      "source_figure": "3",
+      "doi": "10.3390/molecules25030641",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7037863/",
+      "copyright": "2020 the author",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Reproduced without altering plotted content; dose is mg elemental Al/L. Error-bar definition not specified in source.",
+      "manuscript_page": 6
+    },
+    {
+      "manuscript_figure": 19,
+      "asset": "figures/original_18.png",
+      "source_figure": "5(a),5(g)",
+      "doi": "10.1038/s41467-023-44626-9",
+      "source": "https://www.nature.com/articles/s41467-023-44626-9",
+      "copyright": "The Author(s) 2024",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Panels excerpted and stacked; plotted values unchanged. Source-specific conditions and error bars identified in caption.",
+      "manuscript_page": 7
+    },
+    {
+      "manuscript_figure": 21,
+      "asset": "figures/original_20.png",
+      "source_figure": "4",
+      "doi": "10.3390/w11091894",
+      "source": "https://www.mdpi.com/2073-4441/11/9/1894",
+      "copyright": "The Authors 2019",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "changes": "Plotted content unchanged; source MS2 and UVT conditions identified in caption.",
+      "manuscript_page": 7
+    },
+    {
+      "manuscript_figure": 26,
+      "asset": "figures/original_21.png",
+      "source_figure": "2",
+      "doi": "10.1371/journal.pone.0026132",
+      "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026132",
+      "copyright": "2011 Luoto et al.",
+      "license": "Creative Commons Attribution License as stated in source; version not asserted",
+      "changes": "Plotted content unchanged; assigned product, self-reported use and standard errors identified in caption.",
+      "manuscript_page": 11
+    }
+  ],
+  "new_blender_figures": "Figures 22, 23, 24 contain six stage models; Figures 27, 28 contain the integrated machine and industrial installation. Built and rendered with Blender4.3.",
+  "original_image_preservation": [
+    {
+      "source_member": "word/media/image5.png",
+      "asset": "figures/original_01.png",
+      "sha256": "5dfaecbfc27f1ad75e4c103caf62e39e8ae2257df1a56b6d2f020cf23c98360d"
+    },
+    {
+      "source_member": "word/media/image6.png",
+      "asset": "figures/original_02.png",
+      "sha256": "1ccc3af540c83b9b908d8a4443cba8ac172500fcd884d2a5640a29e04264ab74"
+    },
+    {
+      "source_member": "word/media/image7.png",
+      "asset": "figures/original_03.png",
+      "sha256": "277cd69c9cf536c7c50b000ef1aca2e3127f6529ba4c389dfb51b497bdc6f70a"
+    },
+    {
+      "source_member": "word/media/image8.png",
+      "asset": "figures/original_04.png",
+      "sha256": "932d64d647727b3b68abd190cf0bd077e088a5d93cfa38c51931d4df53dbc7ee"
+    },
+    {
+      "source_member": "word/media/image9.png",
+      "asset": "figures/original_05.png",
+      "sha256": "86c8503ca9a7c8d5271da2d105ff0c8f75bd201e68bd1ec7972667bf8dad3d6d"
+    },
+    {
+      "source_member": "word/media/image11.png",
+      "asset": "figures/original_06.png",
+      "sha256": "0b8809a4e2f5df076c1c834a4958e43a1e24f02b25e6abfd93b4421c45b62348"
+    },
+    {
+      "source_member": "word/media/image10.png",
+      "asset": "figures/original_07.png",
+      "sha256": "6fa08245675b730563fb5893d9b11628348b642e22423caedda0dfbe86de8d31"
+    },
+    {
+      "source_member": "word/media/image12.png",
+      "asset": "figures/original_08.png",
+      "sha256": "340b4313ab81bad2f21acff9019f7d1f538983989e9508eca7a4f0cbf33d9b45"
+    },
+    {
+      "source_member": "word/media/image13.png",
+      "asset": "figures/original_09.png",
+      "sha256": "83f41d853b157d0b2deabd574ae2f852f5bd3b3857992bd00f3e6b6de4994c09"
+    },
+    {
+      "source_member": "word/media/image14.png",
+      "asset": "figures/original_10.png",
+      "sha256": "cf6739fa5d2bf936cc49a5ceeec023fc533e78dc4ae3a811f860afc19c0c3260"
+    },
+    {
+      "source_member": "word/media/image15.png",
+      "asset": "figures/original_11.png",
+      "sha256": "83409c71983f1c6d2aaa0f2b917a5ea102f7ccf6518532dac099217acc43b740"
+    },
+    {
+      "source_member": "word/media/image16.png",
+      "asset": "figures/original_12.png",
+      "sha256": "034ae000c25d83616f8bd83fdf6d9179300696465af08adb58734eb0fbb24f6b"
+    },
+    {
+      "source_member": "word/media/image17.png",
+      "asset": "figures/original_13.png",
+      "sha256": "e779c408c68e3ec9829b05bd1fd3c87db5a1a4d324b9194712e9cc2ee03de978"
+    },
+    {
+      "source_member": "word/media/image2.jpeg",
+      "asset": "figures/original_15.jpeg",
+      "sha256": "e8bd4a2770413650278fe2cf4cfc3e028888a3cbacbca37b30b92cc64958153f"
+    },
+    {
+      "source_member": "word/media/image4.jpeg",
+      "asset": "figures/original_16.jpeg",
+      "sha256": "96240ac5566356d81c66e67159bc160cc182b7cf3a745ac6e90836b8acbca0bf"
+    },
+    {
+      "source_member": "word/media/image3.jpeg",
+      "asset": "figures/original_19.jpeg",
+      "sha256": "5c045f1ff6352abedd204d1c9b6926b25d4a5a381e618edebb2a93571f981b1b"
+    }
+  ],
+  "annotation_revision": "The eight publication Blender models were rerendered from native copies with floating explanatory text removed. Flat vector numbered callouts and legends identify the same components; physical geometry and study values are unchanged.",
+  "final_polish": "All 28 figures and 3 tables occupy source-verified nonfloating blocks. The whole models precede Conclusion. Caption numbers and pages are recomputed from the final aux file. Image files are unchanged; frame trimming and scale changes affect display only."
+}

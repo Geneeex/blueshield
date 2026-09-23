@@ -1,0 +1,131 @@
+{
+  "blender_version": "4.3.2",
+  "scene_file_checks": [
+    {
+      "file": "01_Intake_and_Screen_clean.blend",
+      "bytes": 1005136,
+      "sha256": "5678b4a87af4daab041d0ad0030f222bb17bdaf663b72e28c7d316c60d69b604",
+      "windows_absolute_paths_found": [],
+      "source_clean_hash_unchanged": true,
+      "native_reopen_signature_matches": true
+    },
+    {
+      "file": "02_Coagulation_and_Flocculation_clean.blend",
+      "bytes": 1083684,
+      "sha256": "5388d70b7a6c42173bfdb93e539278bdda66d074f803fc81bdc00619ed4e1595",
+      "windows_absolute_paths_found": [],
+      "source_clean_hash_unchanged": true,
+      "native_reopen_signature_matches": true
+    },
+    {
+      "file": "03_Settling_and_Sludge_clean.blend",
+      "bytes": 823728,
+      "sha256": "c81dee8363cc7ebdf9cff03bbe0a301bbc8cecadfaa9ffaee831df0754d73874",
+      "windows_absolute_paths_found": [],
+      "source_clean_hash_unchanged": true,
+      "native_reopen_signature_matches": true
+    },
+    {
+      "file": "04_Supported_GO_Cartridge_clean.blend",
+      "bytes": 1525548,
+      "sha256": "d287e3b69433eb148d8f6215d4f70151e72e372796dbcd4fe190aec30db262b4",
+      "windows_absolute_paths_found": [],
+      "source_clean_hash_unchanged": true,
+      "native_reopen_signature_matches": true
+    },
+    {
+      "file": "05_Terminal_UVC_Reactor_clean.blend",
+      "bytes": 995836,
+      "sha256": "457facc063ff418b6b1bcaf49535654c1496e245f5037d1aa0426004a5bea3af",
+      "windows_absolute_paths_found": [],
+      "source_clean_hash_unchanged": true,
+      "native_reopen_signature_matches": true
+    },
+    {
+      "file": "06_Protected_Storage_and_Sensing_clean.blend",
+      "bytes": 807024,
+      "sha256": "1510060d7ff078ad4b90b65ff65d02321aee3023ae462c598b2725f6e47fbf90",
+      "windows_absolute_paths_found": [],
+      "source_clean_hash_unchanged": true,
+      "native_reopen_signature_matches": true
+    },
+    {
+      "file": "07_Integrated_Machine_clean.blend",
+      "bytes": 3306616,
+      "sha256": "00401a6e8b0edc550ce3ab7eba06eae1c5ad96884719eca76ce0fc5881b0b5dc",
+      "windows_absolute_paths_found": [],
+      "source_clean_hash_unchanged": true,
+      "native_reopen_signature_matches": true
+    },
+    {
+      "file": "08_Industrial_Installation_clean.blend",
+      "bytes": 3739548,
+      "sha256": "4aaecb8c8641a70bb44389af67ced74de379b318c9b9a06835f66c3807f58e2d",
+      "windows_absolute_paths_found": [],
+      "source_clean_hash_unchanged": true,
+      "native_reopen_signature_matches": true
+    }
+  ],
+  "label_regeneration_checks": [
+    {
+      "stem": "01_Intake_and_Screen",
+      "archived_png_unchanged": true,
+      "preview_pixel_identical": true,
+      "svg_byte_identical": true,
+      "background_jpeg_identical": true
+    },
+    {
+      "stem": "02_Coagulation_and_Flocculation",
+      "archived_png_unchanged": true,
+      "preview_pixel_identical": true,
+      "svg_byte_identical": true,
+      "background_jpeg_identical": true
+    },
+    {
+      "stem": "03_Settling_and_Sludge",
+      "archived_png_unchanged": true,
+      "preview_pixel_identical": true,
+      "svg_byte_identical": true,
+      "background_jpeg_identical": true
+    },
+    {
+      "stem": "04_Supported_GO_Cartridge",
+      "archived_png_unchanged": true,
+      "preview_pixel_identical": true,
+      "svg_byte_identical": true,
+      "background_jpeg_identical": true
+    },
+    {
+      "stem": "05_Terminal_UVC_Reactor",
+      "archived_png_unchanged": true,
+      "preview_pixel_identical": true,
+      "svg_byte_identical": true,
+      "background_jpeg_identical": true
+    },
+    {
+      "stem": "06_Protected_Storage_and_Sensing",
+      "archived_png_unchanged": true,
+      "preview_pixel_identical": true,
+      "svg_byte_identical": true,
+      "background_jpeg_identical": true
+    },
+    {
+      "stem": "07_Integrated_Machine",
+      "archived_png_unchanged": true,
+      "preview_pixel_identical": true,
+      "svg_byte_identical": true,
+      "background_jpeg_identical": true
+    },
+    {
+      "stem": "08_Industrial_Installation",
+      "archived_png_unchanged": true,
+      "preview_pixel_identical": true,
+      "svg_byte_identical": true,
+      "background_jpeg_identical": true
+    }
+  ],
+  "python_scripts_syntax_valid": true,
+  "portable_render_wrapper_inspected_all_eight_scenes": true,
+  "new_native_renders_performed": false,
+  "note": "Label reproduction used unchanged archived renders; native scene reopening and dependency checks did not render new images."
+}
