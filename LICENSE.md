@@ -1,9 +1,21 @@
-# Rights and reuse
+MIT License
 
-Copyright 2026 Sabik Bin Sultan and Shafi Bin Sultan, for their original contributions.
+Copyright (c) 2026 Sabik Bin Sultan
 
-No blanket open-source or Creative Commons license has been selected for the authors' original manuscript, data compilation, code or models in this release. All rights reserved except where a file or third-party source states otherwise. Public availability does not grant a general right to redistribute, adapt or commercially exploit these materials. Contact the authors for permission beyond rights provided by applicable law or GitHub's terms.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Third-party research figures retain their original copyright and stated licenses. Their reuse is governed by those licenses, including attribution requirements, independently of this notice. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-BINAVO LABS is the manuscript masthead. The layout does not establish journal publication, acceptance, peer review or endorsement by IEEE or any other publisher.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

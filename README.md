@@ -128,6 +128,6 @@ The [calculation guide](docs/CALCULATIONS.md) traces the formulas, units and dis
 
 The manuscript retains author order **Sabik Bin Sultan, then Shafi Bin Sultan**. BINAVO LABS is its masthead; the supplied document is a research manuscript, not an IEEE-published article. The [manuscript guide](manuscript/README.md) explains how to obtain the external template dependencies and rebuild its layout without overwriting the archived PDF.
 
-Use [CITATION.cff](CITATION.cff) for the research-companion metadata. No DOI or publication acceptance is asserted. The existing [rights notice](LICENSE.md) reserves the authors' original contributions; public availability is not a blanket open-source license. External research figures retain the licenses and attribution listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Use [CITATION.cff](CITATION.cff) for the research-companion metadata. No DOI or publication acceptance is asserted. Original software contributions by **Sabik Bin Sultan** are licensed under the [MIT License](LICENSE.md), copyright (c) 2026 Sabik Bin Sultan. The [licensing scope](LICENSING.md) identifies the covered code; the manuscript, data, figures and models retain their existing rights. Coauthor rights and the third-party terms in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) remain unchanged.
 
 For later updates, follow [repository maintenance](docs/GITHUB_UPLOAD.md), keep aggregate inputs separate from future measurements, and record each substantive amendment with its source and date.

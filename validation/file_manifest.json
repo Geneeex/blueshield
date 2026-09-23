@@ -99,8 +99,12 @@
       "sha256": "e082b0ef103264782dc9b97e94c2dbda6de06f45c181b5c2a1b90e97baf08f6e"
     },
     "LICENSE.md": {
-      "bytes": 965,
-      "sha256": "4cb6abe16dd70b9eb6bf8f97f60c44057c27e65bfba64cc5d4f2ede959b40ca2"
+      "bytes": 1073,
+      "sha256": "39b00af7174968d86fda03b40110c9a14d430d5b0e925cf9005d5ddcc88ec096"
+    },
+    "LICENSING.md": {
+      "bytes": 2310,
+      "sha256": "99173d21411cba8f13c98777b8e646f651dea8363fe44ac358b3d78bba49d4e8"
     },
     "manuscript/BLUESHIELD_FILTER.pdf": {
       "bytes": 5576740,
@@ -407,8 +411,8 @@
       "sha256": "b2f6e8280f3a0cc7216c4b89dac8be6eca5699d9a24d4bab144734f26b2624d8"
     },
     "README.md": {
-      "bytes": 9644,
-      "sha256": "00a1577d1c8aa2f30adee27ccec19924ec37a325d81306eae3307683af2afeff"
+      "bytes": 9768,
+      "sha256": "5bb64a8fb297260804989172e2442b5182c61ace88e3817e1a9120377ed40949"
     },
     "requirements-plots.txt": {
       "bytes": 93,
@@ -511,8 +515,8 @@
       "sha256": "38386a1a2821eb4c809d59d1b5fd670ec0f1bcade5cb09c1d583cfbf706c8821"
     },
     "THIRD_PARTY_NOTICES.md": {
-      "bytes": 3564,
-      "sha256": "bcb90129f669ee92299b8bc30832512a2314ab81683ebedbd9c6a493f38f6e41"
+      "bytes": 3716,
+      "sha256": "1bcf0100fdd395db923fffac1a1ee23e94d78a6d53a3d1c3b2f3f9fa48095be0"
     },
     "validation/LOCAL_VALIDATION.md": {
       "bytes": 2966,

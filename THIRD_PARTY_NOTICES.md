@@ -1,6 +1,6 @@
 # Third-party notices and source attribution
 
-The manuscript is a research manuscript with a BINAVO LABS masthead. No publisher endorsement or acceptance is implied. The original authors' contributions and third-party content have different reuse terms.
+The manuscript is a research manuscript with a BINAVO LABS masthead. No publisher endorsement or acceptance is implied. Original software contributions by Sabik Bin Sultan are covered by the [MIT License](LICENSE.md) within the [documented code-only scope](LICENSING.md). Other original contributions and third-party content retain their existing reuse terms.
 
 ## Reproduced research figures
 
