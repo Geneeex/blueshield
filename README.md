@@ -83,7 +83,7 @@ Favorable survey ratings describe perceptions, not treatment outcomes. The unres
 Use **Python 3.11 or newer**. The core workflow needs only Python's standard library.
 
 ```console
-git clone https://github.com/reploymenter/blueshield.git
+git clone https://github.com/Geneeex/blueshield.git
 cd blueshield
 python -m unittest discover -s tests -v
 python scripts/reproduce.py --output-dir build/reproduced --no-plots --check
@@ -99,7 +99,7 @@ python -m pip install -r requirements-plots.txt
 python scripts/reproduce.py --output-dir build/reproduced --check
 ```
 
-The [GitHub workflow](https://github.com/reploymenter/blueshield/actions/workflows/reproduce.yml) runs tests, numerical reproduction and file verification on Windows and Ubuntu with Python 3.11, 3.12 and 3.13. Local checks passed on **Python 3.12.14 and 3.13.5**. Consult the workflow for current remote results and [the archived validation record](validation/LOCAL_VALIDATION.md) for manuscript and model checks from package preparation.
+The [GitHub workflow](https://github.com/Geneeex/blueshield/actions/workflows/reproduce.yml) runs tests, numerical reproduction and file verification on Windows and Ubuntu with Python 3.11, 3.12 and 3.13. Local checks passed on **Python 3.12.14 and 3.13.5**. Consult the workflow for current remote results and [the archived validation record](validation/LOCAL_VALIDATION.md) for manuscript and model checks from package preparation.
 
 ### One illustrative calculation
 

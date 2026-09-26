@@ -1,13 +1,13 @@
 # Maintain the BLUESHIELD GitHub repository
 
-The public project repository is [SABIKGIT/blueshield](https://github.com/SABIKGIT/blueshield). It contains the manuscript, aggregate summaries, reproducible calculations, conceptual Blender models, and future-testing templates.
+The public project repository is [Geneeex/blueshield](https://github.com/Geneeex/blueshield). It contains the manuscript, aggregate summaries, reproducible calculations, conceptual Blender models, and future-testing templates.
 
 ## Get a working copy
 
 Clone the existing repository once:
 
 ```console
-git clone https://github.com/SABIKGIT/blueshield.git
+git clone https://github.com/Geneeex/blueshield.git
 cd blueshield
 ```
 
@@ -51,7 +51,7 @@ This repository is public. Include only intended project changes; keep identifia
 ## Verify the published revision
 
 - Open the updated README, [model gallery](MODEL_GALLERY.md), PDF, and figure links.
-- Check [GitHub Actions](https://github.com/SABIKGIT/blueshield/actions) for the pushed commit. The workflow runs unit tests, deterministic reproduction, and release verification on Windows and Ubuntu with Python 3.11, 3.12, and 3.13.
+- Check [GitHub Actions](https://github.com/Geneeex/blueshield/actions) for the pushed commit. The workflow runs unit tests, deterministic reproduction, and release verification on Windows and Ubuntu with Python 3.11, 3.12, and 3.13.
 - Keep [CITATION.cff](../CITATION.cff) consistent with the actual repository and any future release metadata. Add an archive DOI only when an archiving service assigns one.
 - Use a versioned GitHub release when preserving the exact revision accompanying a paper, and describe substantive changes in its notes.
 
