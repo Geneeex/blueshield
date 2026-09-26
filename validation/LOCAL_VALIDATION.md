@@ -1,6 +1,6 @@
 # Local release verification
 
-This is the supplied archive-preparation record. Current repository checks are reported separately in [GitHub Actions](https://github.com/SABIKGIT/blueshield/actions/workflows/reproduce.yml).
+This is the supplied archive-preparation record. Current repository checks are reported separately in [GitHub Actions](https://github.com/Geneeex/blueshield/actions/workflows/reproduce.yml).
 
 Verified on 23 September 2026. These checks concern reproducibility and file quality; they do not establish treatment performance or validate unavailable source records.
 

@@ -15,8 +15,8 @@
       "sha256": "661bbc84d7d3a736fbc450545ece8e54fd3bd903967776c5b9fc27cef181514f"
     },
     "CITATION.cff": {
-      "bytes": 1142,
-      "sha256": "a79fc2b64a6e9081910e535dcf53fad7c05c36a34f3f064b66ce3dd1f060b9b8"
+      "bytes": 1140,
+      "sha256": "250d78f3ee2022d40aa541c2c692cbdac0d3f9cc34b7150f627212acfbd0d15a"
     },
     "data/demographics.csv": {
       "bytes": 1139,
@@ -55,8 +55,8 @@
       "sha256": "fc66fbe07b523383f4fbf901a8a27a127d70d1e33f9ef1db31b5fb4acf101bab"
     },
     "docs/GITHUB_UPLOAD.md": {
-      "bytes": 4255,
-      "sha256": "6c3ccc05d220e027fd9f6ede5cd31a3f766762e271603232b7aedbc1f42a63b2"
+      "bytes": 4251,
+      "sha256": "c3bee03ab0310d7d351eed941930f506f78fae3d1a689d7aee24d36d7fcf5b22"
     },
     "docs/MODEL_GALLERY.md": {
       "bytes": 7296,
@@ -411,8 +411,8 @@
       "sha256": "b2f6e8280f3a0cc7216c4b89dac8be6eca5699d9a24d4bab144734f26b2624d8"
     },
     "README.md": {
-      "bytes": 9776,
-      "sha256": "b8c9aaebf51e00553a84b850b7e07ddf1a32435f8f83a2c8318c4471be5cf34f"
+      "bytes": 9766,
+      "sha256": "b9ffdf3d65080ce12bdc1d1306087f9bf40b1a4d9a2d8bf39c93eb98844cb52f"
     },
     "requirements-plots.txt": {
       "bytes": 93,
@@ -519,8 +519,8 @@
       "sha256": "1bcf0100fdd395db923fffac1a1ee23e94d78a6d53a3d1c3b2f3f9fa48095be0"
     },
     "validation/LOCAL_VALIDATION.md": {
-      "bytes": 2966,
-      "sha256": "b023e0236c09525fc14728553c43642e0699990398da7bb9e27d42d7ef6e76dd"
+      "bytes": 2965,
+      "sha256": "89c3e27ce9867bb08fa5444d8ecbf17f82998f123860f39982a5efef0eda00f8"
     },
     "validation/manuscript_build.json": {
       "bytes": 374,
